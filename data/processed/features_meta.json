@@ -1,0 +1,31 @@
+{
+  "n_samples": 49306,
+  "feature_columns": [
+    "elo_home",
+    "elo_away",
+    "elo_diff",
+    "form5_home",
+    "form5_away",
+    "gf5_home",
+    "ga5_home",
+    "gf5_away",
+    "ga5_away",
+    "rest_home",
+    "rest_away",
+    "neutral",
+    "tournament_w",
+    "h2h_home",
+    "h2h_away"
+  ],
+  "date_min": "1872-11-30 00:00:00",
+  "date_max": "2026-06-03 00:00:00",
+  "elo_start": 1500.0,
+  "home_advantage_elo": 80.0,
+  "form_window": 5,
+  "class_distribution": {
+    "1": 24163,
+    "2": 13935,
+    "0": 11208
+  },
+  "n_teams": 336
+}

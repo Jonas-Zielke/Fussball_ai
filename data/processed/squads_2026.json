@@ -1,0 +1,1506 @@
+{
+  "Afghanistan": {
+    "sq_ovr": 64.0,
+    "sq_att": 60.0,
+    "sq_def": 31.0,
+    "sq_age": 23.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Albania": {
+    "sq_ovr": 71.65217391304348,
+    "sq_att": 70.16666666666667,
+    "sq_def": 76.66666666666667,
+    "sq_age": 27.217391304347824,
+    "sq_depth": 3.9151070535946677,
+    "coach": ""
+  },
+  "Algeria": {
+    "sq_ovr": 76.30434782608695,
+    "sq_att": 78.5,
+    "sq_def": 77.0,
+    "sq_age": 28.391304347826086,
+    "sq_depth": 3.469801967216516,
+    "coach": ""
+  },
+  "Andorra": {
+    "sq_ovr": 64.0,
+    "sq_att": 37.0,
+    "sq_def": 60.0,
+    "sq_age": 31.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Angola": {
+    "sq_ovr": 67.3529411764706,
+    "sq_att": 69.33333333333333,
+    "sq_def": 72.16666666666667,
+    "sq_age": 24.58823529411765,
+    "sq_depth": 6.900554112448038,
+    "coach": ""
+  },
+  "Antigua & Barbuda": {
+    "sq_ovr": 62.0,
+    "sq_att": 43.75,
+    "sq_def": 62.333333333333336,
+    "sq_age": 24.25,
+    "sq_depth": 7.393691004272944,
+    "coach": ""
+  },
+  "Antigua and Barbuda": {
+    "sq_ovr": 65.33333333333333,
+    "sq_att": 45.333333333333336,
+    "sq_def": 65.33333333333333,
+    "sq_age": 25.333333333333332,
+    "sq_depth": 4.163331998932265,
+    "coach": ""
+  },
+  "Argentina": {
+    "sq_ovr": 83.30434782608695,
+    "sq_att": 87.33333333333333,
+    "sq_def": 82.33333333333333,
+    "sq_age": 28.91304347826087,
+    "sq_depth": 2.991423841716602,
+    "coach": "Lionel Scaloni"
+  },
+  "Armenia": {
+    "sq_ovr": 68.71428571428571,
+    "sq_att": 73.0,
+    "sq_def": 63.0,
+    "sq_age": 28.428571428571427,
+    "sq_depth": 9.481812163545632,
+    "coach": ""
+  },
+  "Aruba": {
+    "sq_ovr": 68.0,
+    "sq_att": 61.0,
+    "sq_def": 30.0,
+    "sq_age": 31.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Australia": {
+    "sq_ovr": 71.91304347826087,
+    "sq_att": 73.16666666666667,
+    "sq_def": 73.16666666666667,
+    "sq_age": 28.869565217391305,
+    "sq_depth": 2.193234296613542,
+    "coach": "Tony Popovic"
+  },
+  "Austria": {
+    "sq_ovr": 77.65217391304348,
+    "sq_att": 78.16666666666667,
+    "sq_def": 80.0,
+    "sq_age": 28.17391304347826,
+    "sq_depth": 2.963546641382951,
+    "coach": "Ralf Rangnick"
+  },
+  "Azerbaijan": {
+    "sq_ovr": 62.875,
+    "sq_att": 66.33333333333333,
+    "sq_def": 60.25,
+    "sq_age": 24.75,
+    "sq_depth": 4.189698250300543,
+    "coach": ""
+  },
+  "Bahrain": {
+    "sq_ovr": 72.0,
+    "sq_att": 68.0,
+    "sq_def": 38.0,
+    "sq_age": 26.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Barbados": {
+    "sq_ovr": 62.0,
+    "sq_att": 60.0,
+    "sq_def": 30.0,
+    "sq_age": 27.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Belarus": {
+    "sq_ovr": 63.75,
+    "sq_att": 65.0,
+    "sq_def": 30.5,
+    "sq_age": 20.5,
+    "sq_depth": 5.560275772537426,
+    "coach": ""
+  },
+  "Belgium": {
+    "sq_ovr": 82.04347826086956,
+    "sq_att": 85.66666666666667,
+    "sq_def": 83.16666666666667,
+    "sq_age": 29.391304347826086,
+    "sq_depth": 3.9019605895866945,
+    "coach": "Domenico Tedesco"
+  },
+  "Belize": {
+    "sq_ovr": 63.0,
+    "sq_att": 58.0,
+    "sq_def": 61.0,
+    "sq_age": 27.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Benin": {
+    "sq_ovr": 67.6,
+    "sq_att": 66.0,
+    "sq_def": 70.5,
+    "sq_age": 26.0,
+    "sq_depth": 4.765617600176404,
+    "coach": ""
+  },
+  "Bermuda": {
+    "sq_ovr": 70.0,
+    "sq_att": 70.0,
+    "sq_def": 44.0,
+    "sq_age": 31.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Bhutan": {
+    "sq_ovr": 63.0,
+    "sq_att": 60.0,
+    "sq_def": 36.0,
+    "sq_age": 25.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Bolivia": {
+    "sq_ovr": 67.95652173913044,
+    "sq_att": 67.83333333333333,
+    "sq_def": 69.0,
+    "sq_age": 28.608695652173914,
+    "sq_depth": 1.2960871487802053,
+    "coach": "Oscar Villegas"
+  },
+  "Bosnia and Herzegovina": {
+    "sq_ovr": 74.04347826086956,
+    "sq_att": 76.83333333333333,
+    "sq_def": 74.0,
+    "sq_age": 28.869565217391305,
+    "sq_depth": 3.5608765630436006,
+    "coach": ""
+  },
+  "Brazil": {
+    "sq_ovr": 84.43478260869566,
+    "sq_att": 84.5,
+    "sq_def": 86.66666666666667,
+    "sq_age": 29.391304347826086,
+    "sq_depth": 2.7440197282043552,
+    "coach": "Dorival Junior"
+  },
+  "Brunei Darussalam": {
+    "sq_ovr": 55.0,
+    "sq_att": 41.0,
+    "sq_def": 21.0,
+    "sq_age": 19.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Bulgaria": {
+    "sq_ovr": 63.608695652173914,
+    "sq_att": 63.0,
+    "sq_def": 66.66666666666667,
+    "sq_age": 24.608695652173914,
+    "sq_depth": 3.25770597527522,
+    "coach": ""
+  },
+  "Burkina Faso": {
+    "sq_ovr": 66.75,
+    "sq_att": 66.2,
+    "sq_def": 69.33333333333333,
+    "sq_age": 22.0625,
+    "sq_depth": 6.942621983083913,
+    "coach": ""
+  },
+  "Burundi": {
+    "sq_ovr": 62.888888888888886,
+    "sq_att": 64.5,
+    "sq_def": 63.666666666666664,
+    "sq_age": 23.22222222222222,
+    "sq_depth": 4.702245326555295,
+    "coach": ""
+  },
+  "Cambodia": {
+    "sq_ovr": 63.0,
+    "sq_att": 62.0,
+    "sq_def": 32.0,
+    "sq_age": 27.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Cameroon": {
+    "sq_ovr": 74.73913043478261,
+    "sq_att": 76.5,
+    "sq_def": 75.5,
+    "sq_age": 27.565217391304348,
+    "sq_depth": 2.5265389784220953,
+    "coach": "Marc Brys"
+  },
+  "Canada": {
+    "sq_ovr": 71.8695652173913,
+    "sq_att": 71.5,
+    "sq_def": 73.33333333333333,
+    "sq_age": 26.82608695652174,
+    "sq_depth": 3.888261446340615,
+    "coach": "Jesse Marsch"
+  },
+  "Cape Verde": {
+    "sq_ovr": 68.61904761904762,
+    "sq_att": 74.83333333333333,
+    "sq_def": 67.16666666666667,
+    "sq_age": 27.38095238095238,
+    "sq_depth": 5.417344279960343,
+    "coach": ""
+  },
+  "Central African Rep.": {
+    "sq_ovr": 70.5,
+    "sq_att": 53.25,
+    "sq_def": 58.5,
+    "sq_age": 24.75,
+    "sq_depth": 7.724420150837645,
+    "coach": ""
+  },
+  "Central African Republic": {
+    "sq_ovr": 72.5,
+    "sq_att": 60.5,
+    "sq_def": 70.5,
+    "sq_age": 27.5,
+    "sq_depth": 9.192388155425117,
+    "coach": ""
+  },
+  "Chad": {
+    "sq_ovr": 67.5,
+    "sq_att": 67.5,
+    "sq_def": 24.0,
+    "sq_age": 25.5,
+    "sq_depth": 6.363961030678928,
+    "coach": ""
+  },
+  "Chile": {
+    "sq_ovr": 75.47826086956522,
+    "sq_att": 75.33333333333333,
+    "sq_def": 76.66666666666667,
+    "sq_age": 31.130434782608695,
+    "sq_depth": 2.6088932731470513,
+    "coach": ""
+  },
+  "China PR": {
+    "sq_ovr": 71.52173913043478,
+    "sq_att": 76.33333333333333,
+    "sq_def": 71.16666666666667,
+    "sq_age": 31.17391304347826,
+    "sq_depth": 3.4094729693683967,
+    "coach": ""
+  },
+  "Colombia": {
+    "sq_ovr": 78.6086956521739,
+    "sq_att": 80.16666666666667,
+    "sq_def": 79.5,
+    "sq_age": 29.47826086956522,
+    "sq_depth": 2.039142654842574,
+    "coach": "Néstor Lorenzo"
+  },
+  "Comoros": {
+    "sq_ovr": 66.125,
+    "sq_att": 69.33333333333333,
+    "sq_def": 65.33333333333333,
+    "sq_age": 26.125,
+    "sq_depth": 3.48209706929603,
+    "coach": ""
+  },
+  "Congo": {
+    "sq_ovr": 65.6875,
+    "sq_att": 67.66666666666667,
+    "sq_def": 70.33333333333333,
+    "sq_age": 24.625,
+    "sq_depth": 3.8421998906876254,
+    "coach": ""
+  },
+  "Costa Rica": {
+    "sq_ovr": 68.65217391304348,
+    "sq_att": 69.0,
+    "sq_def": 73.83333333333333,
+    "sq_age": 28.043478260869566,
+    "sq_depth": 5.423925915055976,
+    "coach": "Gustavo Alfaro"
+  },
+  "Croatia": {
+    "sq_ovr": 79.08695652173913,
+    "sq_att": 80.33333333333333,
+    "sq_def": 79.33333333333333,
+    "sq_age": 27.91304347826087,
+    "sq_depth": 3.3698265868285335,
+    "coach": "Zlatko Dalić"
+  },
+  "Cuba": {
+    "sq_ovr": 69.0,
+    "sq_att": 60.333333333333336,
+    "sq_def": 52.666666666666664,
+    "sq_age": 31.0,
+    "sq_depth": 4.358898943540674,
+    "coach": ""
+  },
+  "Curaçao": {
+    "sq_ovr": 67.54545454545455,
+    "sq_att": 66.5,
+    "sq_def": 68.5,
+    "sq_age": 27.727272727272727,
+    "sq_depth": 2.8762349126466136,
+    "coach": ""
+  },
+  "Cyprus": {
+    "sq_ovr": 61.526315789473685,
+    "sq_att": 63.666666666666664,
+    "sq_def": 64.0,
+    "sq_age": 22.63157894736842,
+    "sq_depth": 5.541444066232311,
+    "coach": ""
+  },
+  "Czech Republic": {
+    "sq_ovr": 77.04347826086956,
+    "sq_att": 76.5,
+    "sq_def": 79.0,
+    "sq_age": 27.608695652173914,
+    "sq_depth": 2.184204886942224,
+    "coach": ""
+  },
+  "DR Congo": {
+    "sq_ovr": 73.04347826086956,
+    "sq_att": 75.5,
+    "sq_def": 74.5,
+    "sq_age": 28.043478260869566,
+    "sq_depth": 3.022314899506446,
+    "coach": "Sébastien Desabre"
+  },
+  "Denmark": {
+    "sq_ovr": 77.91304347826087,
+    "sq_att": 77.83333333333333,
+    "sq_def": 80.5,
+    "sq_age": 27.434782608695652,
+    "sq_depth": 3.1175900290020184,
+    "coach": "Brian Riemer"
+  },
+  "Dominican Republic": {
+    "sq_ovr": 65.0,
+    "sq_att": 66.33333333333333,
+    "sq_def": 32.25,
+    "sq_age": 22.25,
+    "sq_depth": 7.831560082980487,
+    "coach": ""
+  },
+  "Ecuador": {
+    "sq_ovr": 72.8695652173913,
+    "sq_att": 76.0,
+    "sq_def": 72.5,
+    "sq_age": 28.391304347826086,
+    "sq_depth": 2.768398746668074,
+    "coach": "Sebastián Beccacece"
+  },
+  "Egypt": {
+    "sq_ovr": 72.25,
+    "sq_att": 74.66666666666667,
+    "sq_def": 73.0,
+    "sq_age": 25.583333333333332,
+    "sq_depth": 6.956030738601119,
+    "coach": "Hossam Hassan"
+  },
+  "El Salvador": {
+    "sq_ovr": 65.0,
+    "sq_att": 55.666666666666664,
+    "sq_def": 63.666666666666664,
+    "sq_age": 25.75,
+    "sq_depth": 3.265986323710904,
+    "coach": ""
+  },
+  "England": {
+    "sq_ovr": 84.17391304347827,
+    "sq_att": 86.66666666666667,
+    "sq_def": 84.5,
+    "sq_age": 25.82608695652174,
+    "sq_depth": 2.187821122674826,
+    "coach": "Thomas Tuchel"
+  },
+  "Equatorial Guinea": {
+    "sq_ovr": 69.0,
+    "sq_att": 65.66666666666667,
+    "sq_def": 52.6,
+    "sq_age": 25.2,
+    "sq_depth": 6.164414002968976,
+    "coach": ""
+  },
+  "Eritrea": {
+    "sq_ovr": 67.0,
+    "sq_att": 67.0,
+    "sq_def": 39.0,
+    "sq_age": 36.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Estonia": {
+    "sq_ovr": 60.0,
+    "sq_att": 36.0,
+    "sq_def": 58.0,
+    "sq_age": 18.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Ethiopia": {
+    "sq_ovr": 64.0,
+    "sq_att": 61.0,
+    "sq_def": 57.0,
+    "sq_age": 35.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "FYR Macedonia": {
+    "sq_ovr": 68.7,
+    "sq_att": 73.16666666666667,
+    "sq_def": 69.33333333333333,
+    "sq_age": 25.75,
+    "sq_depth": 5.33212705656649,
+    "coach": ""
+  },
+  "Faroe Islands": {
+    "sq_ovr": 63.0,
+    "sq_att": 47.0,
+    "sq_def": 63.0,
+    "sq_age": 27.666666666666668,
+    "sq_depth": 1.7320508075688772,
+    "coach": ""
+  },
+  "Fiji": {
+    "sq_ovr": 72.0,
+    "sq_att": 72.0,
+    "sq_def": 46.0,
+    "sq_age": 33.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Finland": {
+    "sq_ovr": 70.26086956521739,
+    "sq_att": 71.33333333333333,
+    "sq_def": 72.5,
+    "sq_age": 28.82608695652174,
+    "sq_depth": 4.266331096817028,
+    "coach": ""
+  },
+  "France": {
+    "sq_ovr": 84.65217391304348,
+    "sq_att": 86.5,
+    "sq_def": 84.66666666666667,
+    "sq_age": 27.0,
+    "sq_depth": 2.6043441968472933,
+    "coach": "Didier Deschamps"
+  },
+  "Gabon": {
+    "sq_ovr": 71.16666666666667,
+    "sq_att": 73.75,
+    "sq_def": 67.16666666666667,
+    "sq_age": 28.333333333333332,
+    "sq_depth": 5.874959703278952,
+    "coach": ""
+  },
+  "Gambia": {
+    "sq_ovr": 67.21739130434783,
+    "sq_att": 70.5,
+    "sq_def": 67.66666666666667,
+    "sq_age": 24.26086956521739,
+    "sq_depth": 3.3297081736601375,
+    "coach": ""
+  },
+  "Georgia": {
+    "sq_ovr": 68.1304347826087,
+    "sq_att": 71.16666666666667,
+    "sq_def": 70.66666666666667,
+    "sq_age": 26.043478260869566,
+    "sq_depth": 3.946279580775325,
+    "coach": ""
+  },
+  "Germany": {
+    "sq_ovr": 84.82608695652173,
+    "sq_att": 84.66666666666667,
+    "sq_def": 87.0,
+    "sq_age": 28.73913043478261,
+    "sq_depth": 2.552221383833084,
+    "coach": "Julian Nagelsmann"
+  },
+  "Ghana": {
+    "sq_ovr": 74.73913043478261,
+    "sq_att": 76.33333333333333,
+    "sq_def": 75.0,
+    "sq_age": 27.08695652173913,
+    "sq_depth": 2.5622680170708816,
+    "coach": ""
+  },
+  "Gibraltar": {
+    "sq_ovr": 62.0,
+    "sq_att": 57.0,
+    "sq_def": 29.0,
+    "sq_age": 21.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Greece": {
+    "sq_ovr": 75.30434782608695,
+    "sq_att": 76.5,
+    "sq_def": 77.33333333333333,
+    "sq_age": 27.304347826086957,
+    "sq_depth": 2.803160271886255,
+    "coach": ""
+  },
+  "Grenada": {
+    "sq_ovr": 63.0,
+    "sq_att": 61.0,
+    "sq_def": 64.0,
+    "sq_age": 25.666666666666668,
+    "sq_depth": 4.147288270665544,
+    "coach": ""
+  },
+  "Guam": {
+    "sq_ovr": 65.0,
+    "sq_att": 48.0,
+    "sq_def": 63.0,
+    "sq_age": 33.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Guatemala": {
+    "sq_ovr": 61.5,
+    "sq_att": 40.5,
+    "sq_def": 61.5,
+    "sq_age": 25.0,
+    "sq_depth": 2.1213203435596424,
+    "coach": ""
+  },
+  "Guinea": {
+    "sq_ovr": 69.52173913043478,
+    "sq_att": 69.5,
+    "sq_def": 70.0,
+    "sq_age": 26.47826086956522,
+    "sq_depth": 4.39906565717386,
+    "coach": ""
+  },
+  "Guinea Bissau": {
+    "sq_ovr": 66.0,
+    "sq_att": 69.66666666666667,
+    "sq_def": 65.33333333333333,
+    "sq_age": 24.818181818181817,
+    "sq_depth": 5.0896720822428145,
+    "coach": ""
+  },
+  "Guyana": {
+    "sq_ovr": 57.714285714285715,
+    "sq_att": 62.0,
+    "sq_def": 57.333333333333336,
+    "sq_age": 22.142857142857142,
+    "sq_depth": 5.407226205560041,
+    "coach": ""
+  },
+  "Haiti": {
+    "sq_ovr": 64.1,
+    "sq_att": 66.5,
+    "sq_def": 64.0,
+    "sq_age": 25.1,
+    "sq_depth": 3.842742076521226,
+    "coach": ""
+  },
+  "Honduras": {
+    "sq_ovr": 68.0909090909091,
+    "sq_att": 70.4,
+    "sq_def": 66.75,
+    "sq_age": 28.363636363636363,
+    "sq_depth": 5.448936510082412,
+    "coach": "Reinaldo Rueda"
+  },
+  "Hong Kong": {
+    "sq_ovr": 53.0,
+    "sq_att": 44.5,
+    "sq_def": 45.0,
+    "sq_age": 23.0,
+    "sq_depth": 5.656854249492381,
+    "coach": ""
+  },
+  "Hungary": {
+    "sq_ovr": 72.1304347826087,
+    "sq_att": 73.0,
+    "sq_def": 76.66666666666667,
+    "sq_age": 28.347826086956523,
+    "sq_depth": 4.330697485563087,
+    "coach": ""
+  },
+  "Iceland": {
+    "sq_ovr": 70.69565217391305,
+    "sq_att": 72.5,
+    "sq_def": 71.5,
+    "sq_age": 28.82608695652174,
+    "sq_depth": 2.7868976333859723,
+    "coach": ""
+  },
+  "India": {
+    "sq_ovr": 61.0,
+    "sq_att": 60.333333333333336,
+    "sq_def": 62.5,
+    "sq_age": 27.608695652173914,
+    "sq_depth": 2.15322168769582,
+    "coach": ""
+  },
+  "Indonesia": {
+    "sq_ovr": 51.0,
+    "sq_att": 43.0,
+    "sq_def": 29.0,
+    "sq_age": 19.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Iran": {
+    "sq_ovr": 69.42857142857143,
+    "sq_att": 73.16666666666667,
+    "sq_def": 70.5,
+    "sq_age": 27.571428571428573,
+    "sq_depth": 3.9442544108034987,
+    "coach": "Amir Ghalenoei"
+  },
+  "Iraq": {
+    "sq_ovr": 66.5,
+    "sq_att": 62.5,
+    "sq_def": 51.0,
+    "sq_age": 29.75,
+    "sq_depth": 2.3804761428476167,
+    "coach": "Jesús Casas"
+  },
+  "Israel": {
+    "sq_ovr": 68.18181818181819,
+    "sq_att": 75.66666666666667,
+    "sq_def": 64.83333333333333,
+    "sq_age": 25.727272727272727,
+    "sq_depth": 6.276459144608478,
+    "coach": ""
+  },
+  "Italy": {
+    "sq_ovr": 83.26086956521739,
+    "sq_att": 84.33333333333333,
+    "sq_def": 84.66666666666667,
+    "sq_age": 28.26086956521739,
+    "sq_depth": 2.3972975562333785,
+    "coach": "Luciano Spalletti"
+  },
+  "Ivory Coast": {
+    "sq_ovr": 77.0,
+    "sq_att": 78.66666666666667,
+    "sq_def": 76.66666666666667,
+    "sq_age": 27.347826086956523,
+    "sq_depth": 2.696799449852968,
+    "coach": "Emerse Faé"
+  },
+  "Jamaica": {
+    "sq_ovr": 70.91304347826087,
+    "sq_att": 75.66666666666667,
+    "sq_def": 71.83333333333333,
+    "sq_age": 28.0,
+    "sq_depth": 4.337081585564411,
+    "coach": "Steve McClaren"
+  },
+  "Japan": {
+    "sq_ovr": 74.73913043478261,
+    "sq_att": 76.16666666666667,
+    "sq_def": 74.5,
+    "sq_age": 28.91304347826087,
+    "sq_depth": 1.814522008292287,
+    "coach": "Hajime Moriyasu"
+  },
+  "Jordan": {
+    "sq_ovr": 64.33333333333333,
+    "sq_att": 64.5,
+    "sq_def": 38.666666666666664,
+    "sq_age": 26.666666666666668,
+    "sq_depth": 4.509249752822894,
+    "coach": ""
+  },
+  "Kazakhstan": {
+    "sq_ovr": 67.66666666666667,
+    "sq_att": 61.666666666666664,
+    "sq_def": 58.333333333333336,
+    "sq_age": 26.0,
+    "sq_depth": 2.5166114784235836,
+    "coach": ""
+  },
+  "Kenya": {
+    "sq_ovr": 65.5,
+    "sq_att": 61.5,
+    "sq_def": 65.75,
+    "sq_age": 25.5,
+    "sq_depth": 4.956957592256421,
+    "coach": ""
+  },
+  "Kosovo": {
+    "sq_ovr": 70.69565217391305,
+    "sq_att": 73.5,
+    "sq_def": 71.66666666666667,
+    "sq_age": 25.217391304347824,
+    "sq_depth": 3.1541427679784113,
+    "coach": ""
+  },
+  "Kuwait": {
+    "sq_ovr": 70.0,
+    "sq_att": 54.0,
+    "sq_def": 64.0,
+    "sq_age": 31.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Kyrgyzstan": {
+    "sq_ovr": 65.0,
+    "sq_att": 62.0,
+    "sq_def": 32.0,
+    "sq_age": 31.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Latvia": {
+    "sq_ovr": 60.714285714285715,
+    "sq_att": 60.0,
+    "sq_def": 61.666666666666664,
+    "sq_age": 24.285714285714285,
+    "sq_depth": 3.946064947695181,
+    "coach": ""
+  },
+  "Lebanon": {
+    "sq_ovr": 63.0,
+    "sq_att": 50.0,
+    "sq_def": 48.0,
+    "sq_age": 29.5,
+    "sq_depth": 4.242640687119285,
+    "coach": ""
+  },
+  "Liberia": {
+    "sq_ovr": 65.0,
+    "sq_att": 64.0,
+    "sq_def": 39.4,
+    "sq_age": 22.4,
+    "sq_depth": 7.211102550927978,
+    "coach": ""
+  },
+  "Libya": {
+    "sq_ovr": 73.33333333333333,
+    "sq_att": 62.0,
+    "sq_def": 50.333333333333336,
+    "sq_age": 27.0,
+    "sq_depth": 3.214550253664318,
+    "coach": ""
+  },
+  "Liechtenstein": {
+    "sq_ovr": 59.0,
+    "sq_att": 50.0,
+    "sq_def": 59.666666666666664,
+    "sq_age": 23.4,
+    "sq_depth": 4.847679857416329,
+    "coach": ""
+  },
+  "Lithuania": {
+    "sq_ovr": 63.55555555555556,
+    "sq_att": 66.5,
+    "sq_def": 63.4,
+    "sq_age": 26.444444444444443,
+    "sq_depth": 4.065436972550156,
+    "coach": ""
+  },
+  "Luxembourg": {
+    "sq_ovr": 65.86666666666666,
+    "sq_att": 55.4,
+    "sq_def": 67.83333333333333,
+    "sq_age": 25.266666666666666,
+    "sq_depth": 4.96943035923013,
+    "coach": ""
+  },
+  "Macau": {
+    "sq_ovr": 60.0,
+    "sq_att": 31.0,
+    "sq_def": 63.0,
+    "sq_age": 25.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Madagascar": {
+    "sq_ovr": 69.0,
+    "sq_att": 64.0,
+    "sq_def": 69.66666666666667,
+    "sq_age": 29.25,
+    "sq_depth": 3.9641248358604595,
+    "coach": ""
+  },
+  "Malawi": {
+    "sq_ovr": 62.5,
+    "sq_att": 53.5,
+    "sq_def": 37.0,
+    "sq_age": 23.0,
+    "sq_depth": 10.606601717798213,
+    "coach": ""
+  },
+  "Malaysia": {
+    "sq_ovr": 59.0,
+    "sq_att": 59.0,
+    "sq_def": 30.5,
+    "sq_age": 24.0,
+    "sq_depth": 2.8284271247461903,
+    "coach": ""
+  },
+  "Mali": {
+    "sq_ovr": 73.21739130434783,
+    "sq_att": 72.66666666666667,
+    "sq_def": 73.33333333333333,
+    "sq_age": 26.043478260869566,
+    "sq_depth": 2.891311777457838,
+    "coach": ""
+  },
+  "Malta": {
+    "sq_ovr": 63.5,
+    "sq_att": 63.5,
+    "sq_def": 41.5,
+    "sq_age": 25.0,
+    "sq_depth": 7.7781745930520225,
+    "coach": ""
+  },
+  "Mauritania": {
+    "sq_ovr": 64.33333333333333,
+    "sq_att": 50.0,
+    "sq_def": 53.0,
+    "sq_age": 21.666666666666668,
+    "sq_depth": 4.725815626252608,
+    "coach": ""
+  },
+  "Mauritius": {
+    "sq_ovr": 67.0,
+    "sq_att": 41.0,
+    "sq_def": 65.0,
+    "sq_age": 29.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Mexico": {
+    "sq_ovr": 78.1304347826087,
+    "sq_att": 80.66666666666667,
+    "sq_def": 78.66666666666667,
+    "sq_age": 29.52173913043478,
+    "sq_depth": 2.321918247446728,
+    "coach": "Javier Aguirre"
+  },
+  "Moldova": {
+    "sq_ovr": 67.25,
+    "sq_att": 68.33333333333333,
+    "sq_def": 67.25,
+    "sq_age": 28.875,
+    "sq_depth": 3.693623849670827,
+    "coach": ""
+  },
+  "Montenegro": {
+    "sq_ovr": 69.30434782608695,
+    "sq_att": 72.33333333333333,
+    "sq_def": 73.33333333333333,
+    "sq_age": 26.652173913043477,
+    "sq_depth": 5.857666170449361,
+    "coach": ""
+  },
+  "Montserrat": {
+    "sq_ovr": 61.2,
+    "sq_att": 61.5,
+    "sq_def": 48.0,
+    "sq_age": 26.2,
+    "sq_depth": 5.449770637375485,
+    "coach": ""
+  },
+  "Morocco": {
+    "sq_ovr": 77.95652173913044,
+    "sq_att": 79.66666666666667,
+    "sq_def": 80.83333333333333,
+    "sq_age": 28.47826086956522,
+    "sq_depth": 3.111244429040123,
+    "coach": "Walid Regragui"
+  },
+  "Mozambique": {
+    "sq_ovr": 73.0,
+    "sq_att": 49.75,
+    "sq_def": 75.0,
+    "sq_age": 29.5,
+    "sq_depth": 4.69041575982343,
+    "coach": ""
+  },
+  "Namibia": {
+    "sq_ovr": 69.66666666666667,
+    "sq_att": 68.5,
+    "sq_def": 43.333333333333336,
+    "sq_age": 27.666666666666668,
+    "sq_depth": 4.041451884327381,
+    "coach": ""
+  },
+  "Netherlands": {
+    "sq_ovr": 81.82608695652173,
+    "sq_att": 81.66666666666667,
+    "sq_def": 85.0,
+    "sq_age": 26.304347826086957,
+    "sq_depth": 2.822831813381788,
+    "coach": "Ronald Koeman"
+  },
+  "New Caledonia": {
+    "sq_ovr": 71.0,
+    "sq_att": 38.0,
+    "sq_def": 70.0,
+    "sq_age": 32.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "New Zealand": {
+    "sq_ovr": 67.21739130434783,
+    "sq_att": 70.16666666666667,
+    "sq_def": 69.33333333333333,
+    "sq_age": 25.304347826086957,
+    "sq_depth": 4.033456917280426,
+    "coach": "Darren Bazeley"
+  },
+  "Nicaragua": {
+    "sq_ovr": 56.0,
+    "sq_att": 55.0,
+    "sq_def": 32.0,
+    "sq_age": 25.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Niger": {
+    "sq_ovr": 60.0,
+    "sq_att": 64.0,
+    "sq_def": 40.666666666666664,
+    "sq_age": 25.333333333333332,
+    "sq_depth": 8.54400374531753,
+    "coach": ""
+  },
+  "Nigeria": {
+    "sq_ovr": 76.08695652173913,
+    "sq_att": 78.0,
+    "sq_def": 75.0,
+    "sq_age": 25.695652173913043,
+    "sq_depth": 2.644256958326872,
+    "coach": "Augustine Eguavoen"
+  },
+  "North Korea": {
+    "sq_ovr": 64.0,
+    "sq_att": 59.0,
+    "sq_def": 47.0,
+    "sq_age": 39.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "North Macedonia": {
+    "sq_ovr": 69.26086956521739,
+    "sq_att": 70.83333333333333,
+    "sq_def": 71.33333333333333,
+    "sq_age": 26.782608695652176,
+    "sq_depth": 5.038194042460668,
+    "coach": ""
+  },
+  "Northern Ireland": {
+    "sq_ovr": 69.69565217391305,
+    "sq_att": 67.5,
+    "sq_def": 74.0,
+    "sq_age": 29.0,
+    "sq_depth": 3.878082733993643,
+    "coach": ""
+  },
+  "Norway": {
+    "sq_ovr": 75.73913043478261,
+    "sq_att": 78.5,
+    "sq_def": 75.16666666666667,
+    "sq_age": 26.695652173913043,
+    "sq_depth": 3.3873748390745395,
+    "coach": ""
+  },
+  "Oman": {
+    "sq_ovr": 72.0,
+    "sq_att": 60.0,
+    "sq_def": 61.0,
+    "sq_age": 36.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Palestine": {
+    "sq_ovr": 61.5,
+    "sq_att": 61.5,
+    "sq_def": 28.0,
+    "sq_age": 25.5,
+    "sq_depth": 2.1213203435596424,
+    "coach": ""
+  },
+  "Panama": {
+    "sq_ovr": 67.05882352941177,
+    "sq_att": 69.16666666666667,
+    "sq_def": 68.16666666666667,
+    "sq_age": 26.352941176470587,
+    "sq_depth": 6.2497058754322,
+    "coach": "Thomas Christiansen"
+  },
+  "Papua New Guinea": {
+    "sq_ovr": 65.0,
+    "sq_att": 56.0,
+    "sq_def": 25.0,
+    "sq_age": 25.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Paraguay": {
+    "sq_ovr": 74.47826086956522,
+    "sq_att": 75.0,
+    "sq_def": 74.16666666666667,
+    "sq_age": 28.130434782608695,
+    "sq_depth": 1.0387739809021064,
+    "coach": ""
+  },
+  "Peru": {
+    "sq_ovr": 72.91304347826087,
+    "sq_att": 73.0,
+    "sq_def": 74.0,
+    "sq_age": 28.434782608695652,
+    "sq_depth": 3.1175900290020184,
+    "coach": ""
+  },
+  "Philippines": {
+    "sq_ovr": 66.33333333333333,
+    "sq_att": 50.6,
+    "sq_def": 65.2,
+    "sq_age": 26.666666666666668,
+    "sq_depth": 5.680375574437545,
+    "coach": ""
+  },
+  "Poland": {
+    "sq_ovr": 77.04347826086956,
+    "sq_att": 79.5,
+    "sq_def": 79.33333333333333,
+    "sq_age": 29.17391304347826,
+    "sq_depth": 4.912676190405658,
+    "coach": "Michał Probierz"
+  },
+  "Portugal": {
+    "sq_ovr": 83.21739130434783,
+    "sq_att": 85.66666666666667,
+    "sq_def": 84.16666666666667,
+    "sq_age": 28.217391304347824,
+    "sq_depth": 2.6960665243197006,
+    "coach": "Roberto Martínez"
+  },
+  "Puerto Rico": {
+    "sq_ovr": 61.0,
+    "sq_att": 44.0,
+    "sq_def": 46.0,
+    "sq_age": 23.0,
+    "sq_depth": 9.899494936611665,
+    "coach": ""
+  },
+  "Qatar": {
+    "sq_ovr": 61.0,
+    "sq_att": 23.0,
+    "sq_def": 62.0,
+    "sq_age": 24.0,
+    "sq_depth": 0.0,
+    "coach": "Marquez López"
+  },
+  "Republic of Ireland": {
+    "sq_ovr": 73.26086956521739,
+    "sq_att": 72.16666666666667,
+    "sq_def": 75.83333333333333,
+    "sq_age": 28.347826086956523,
+    "sq_depth": 1.982133637003497,
+    "coach": ""
+  },
+  "Romania": {
+    "sq_ovr": 73.56521739130434,
+    "sq_att": 74.33333333333333,
+    "sq_def": 75.16666666666667,
+    "sq_age": 28.695652173913043,
+    "sq_depth": 1.9265156242794619,
+    "coach": "Edi Iordănescu"
+  },
+  "Russia": {
+    "sq_ovr": 76.6086956521739,
+    "sq_att": 77.16666666666667,
+    "sq_def": 78.33333333333333,
+    "sq_age": 29.043478260869566,
+    "sq_depth": 1.994062332270543,
+    "coach": ""
+  },
+  "Rwanda": {
+    "sq_ovr": 65.0,
+    "sq_att": 63.0,
+    "sq_def": 63.0,
+    "sq_age": 23.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Saint Kitts and Nevis": {
+    "sq_ovr": 62.8,
+    "sq_att": 60.5,
+    "sq_def": 60.5,
+    "sq_age": 25.8,
+    "sq_depth": 6.058052492344384,
+    "coach": ""
+  },
+  "Saint Lucia": {
+    "sq_ovr": 64.0,
+    "sq_att": 34.0,
+    "sq_def": 62.0,
+    "sq_age": 27.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "San Marino": {
+    "sq_ovr": 54.0,
+    "sq_att": NaN,
+    "sq_def": NaN,
+    "sq_age": 22.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Saudi Arabia": {
+    "sq_ovr": 69.73913043478261,
+    "sq_att": 68.5,
+    "sq_def": 71.66666666666667,
+    "sq_age": 27.956521739130434,
+    "sq_depth": 2.6149463979270435,
+    "coach": "Hervé Renard"
+  },
+  "Scotland": {
+    "sq_ovr": 76.04347826086956,
+    "sq_att": 75.0,
+    "sq_def": 78.0,
+    "sq_age": 28.434782608695652,
+    "sq_depth": 2.992084418922781,
+    "coach": ""
+  },
+  "Senegal": {
+    "sq_ovr": 77.43478260869566,
+    "sq_att": 78.66666666666667,
+    "sq_def": 79.5,
+    "sq_age": 27.782608695652176,
+    "sq_depth": 3.9980232269610636,
+    "coach": "Aliou Cissé"
+  },
+  "Serbia": {
+    "sq_ovr": 77.91304347826087,
+    "sq_att": 79.66666666666667,
+    "sq_def": 79.16666666666667,
+    "sq_age": 27.73913043478261,
+    "sq_depth": 2.9986821875050516,
+    "coach": "Dragan Stojković"
+  },
+  "Sierra Leone": {
+    "sq_ovr": 65.9,
+    "sq_att": 67.33333333333333,
+    "sq_def": 63.666666666666664,
+    "sq_age": 23.7,
+    "sq_depth": 2.806737924669451,
+    "coach": ""
+  },
+  "Singapore": {
+    "sq_ovr": 59.0,
+    "sq_att": 61.0,
+    "sq_def": 29.0,
+    "sq_age": 17.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Slovakia": {
+    "sq_ovr": 74.52173913043478,
+    "sq_att": 74.66666666666667,
+    "sq_def": 77.16666666666667,
+    "sq_age": 27.565217391304348,
+    "sq_depth": 3.629044016584574,
+    "coach": ""
+  },
+  "Slovenia": {
+    "sq_ovr": 74.3913043478261,
+    "sq_att": 74.5,
+    "sq_def": 78.33333333333333,
+    "sq_age": 27.956521739130434,
+    "sq_depth": 5.789796121663938,
+    "coach": ""
+  },
+  "Somalia": {
+    "sq_ovr": 68.0,
+    "sq_att": 66.0,
+    "sq_def": 42.0,
+    "sq_age": 28.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "South Africa": {
+    "sq_ovr": 70.1304347826087,
+    "sq_att": 71.83333333333333,
+    "sq_def": 70.33333333333333,
+    "sq_age": 28.695652173913043,
+    "sq_depth": 1.5167053955587406,
+    "coach": "Hugo Broos"
+  },
+  "South Korea": {
+    "sq_ovr": 73.43478260869566,
+    "sq_att": 77.0,
+    "sq_def": 73.16666666666667,
+    "sq_age": 28.869565217391305,
+    "sq_depth": 3.7273691301521326,
+    "coach": "Hong Myung-bo"
+  },
+  "South Sudan": {
+    "sq_ovr": 52.8,
+    "sq_att": 53.75,
+    "sq_def": 26.8,
+    "sq_age": 21.2,
+    "sq_depth": 3.7013511046643495,
+    "coach": ""
+  },
+  "Spain": {
+    "sq_ovr": 84.82608695652173,
+    "sq_att": 85.0,
+    "sq_def": 85.5,
+    "sq_age": 30.17391304347826,
+    "sq_depth": 1.3702081432144626,
+    "coach": "Luis de la Fuente"
+  },
+  "Sri Lanka": {
+    "sq_ovr": 60.0,
+    "sq_att": 53.0,
+    "sq_def": 28.0,
+    "sq_age": 22.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "St Kitts Nevis": {
+    "sq_ovr": 62.75,
+    "sq_att": 46.25,
+    "sq_def": 53.0,
+    "sq_age": 28.0,
+    "sq_depth": 6.3966136874651625,
+    "coach": ""
+  },
+  "St Lucia": {
+    "sq_ovr": 64.0,
+    "sq_att": 34.0,
+    "sq_def": 62.0,
+    "sq_age": 25.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "St Vincent Grenadine": {
+    "sq_ovr": 64.0,
+    "sq_att": 61.0,
+    "sq_def": 24.0,
+    "sq_age": 20.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Sudan": {
+    "sq_ovr": 62.333333333333336,
+    "sq_att": 62.333333333333336,
+    "sq_def": 26.0,
+    "sq_age": 24.333333333333332,
+    "sq_depth": 4.725815626252609,
+    "coach": ""
+  },
+  "Suriname": {
+    "sq_ovr": 70.27272727272727,
+    "sq_att": 71.2,
+    "sq_def": 71.33333333333333,
+    "sq_age": 29.181818181818183,
+    "sq_depth": 3.6630836488103595,
+    "coach": ""
+  },
+  "Swaziland": {
+    "sq_ovr": 63.0,
+    "sq_att": 51.0,
+    "sq_def": 43.0,
+    "sq_age": 20.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Sweden": {
+    "sq_ovr": 76.34782608695652,
+    "sq_att": 80.16666666666667,
+    "sq_def": 76.0,
+    "sq_age": 28.52173913043478,
+    "sq_depth": 3.0838095633363776,
+    "coach": ""
+  },
+  "Switzerland": {
+    "sq_ovr": 78.0,
+    "sq_att": 76.16666666666667,
+    "sq_def": 80.5,
+    "sq_age": 27.652173913043477,
+    "sq_depth": 2.2962419891481978,
+    "coach": "Murat Yakin"
+  },
+  "Syria": {
+    "sq_ovr": 72.0,
+    "sq_att": 70.5,
+    "sq_def": 46.0,
+    "sq_age": 29.5,
+    "sq_depth": 5.656854249492381,
+    "coach": ""
+  },
+  "São Tomé & Príncipe": {
+    "sq_ovr": 70.0,
+    "sq_att": 73.0,
+    "sq_def": 34.0,
+    "sq_age": 33.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Tajikistan": {
+    "sq_ovr": 61.0,
+    "sq_att": 40.0,
+    "sq_def": 60.0,
+    "sq_age": 26.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Tanzania": {
+    "sq_ovr": 74.0,
+    "sq_att": 71.0,
+    "sq_def": 31.0,
+    "sq_age": 28.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Thailand": {
+    "sq_ovr": 63.0,
+    "sq_att": 65.5,
+    "sq_def": 63.333333333333336,
+    "sq_age": 24.833333333333332,
+    "sq_depth": 6.603029607687671,
+    "coach": ""
+  },
+  "Togo": {
+    "sq_ovr": 68.72727272727273,
+    "sq_att": 70.83333333333333,
+    "sq_def": 68.66666666666667,
+    "sq_age": 25.454545454545453,
+    "sq_depth": 6.7095589883525,
+    "coach": ""
+  },
+  "Trinidad and Tobago": {
+    "sq_ovr": 64.125,
+    "sq_att": 72.5,
+    "sq_def": 61.6,
+    "sq_age": 25.625,
+    "sq_depth": 7.079901129253148,
+    "coach": ""
+  },
+  "Tunisia": {
+    "sq_ovr": 68.82608695652173,
+    "sq_att": 73.0,
+    "sq_def": 69.66666666666667,
+    "sq_age": 27.26086956521739,
+    "sq_depth": 4.334346694119212,
+    "coach": "Faouzi Benzarti"
+  },
+  "Turkey": {
+    "sq_ovr": 76.6086956521739,
+    "sq_att": 78.16666666666667,
+    "sq_def": 78.16666666666667,
+    "sq_age": 26.434782608695652,
+    "sq_depth": 2.271145694753734,
+    "coach": "Vincenzo Montella"
+  },
+  "Turkmenistan": {
+    "sq_ovr": 63.0,
+    "sq_att": 61.0,
+    "sq_def": 35.0,
+    "sq_age": 30.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Uganda": {
+    "sq_ovr": 64.57142857142857,
+    "sq_att": 63.5,
+    "sq_def": 66.0,
+    "sq_age": 24.285714285714285,
+    "sq_depth": 3.101458950082625,
+    "coach": ""
+  },
+  "Ukraine": {
+    "sq_ovr": 76.0,
+    "sq_att": 78.16666666666667,
+    "sq_def": 75.83333333333333,
+    "sq_age": 27.869565217391305,
+    "sq_depth": 2.6285149626910838,
+    "coach": ""
+  },
+  "United Arab Emirates": {
+    "sq_ovr": 63.21052631578947,
+    "sq_att": 62.8,
+    "sq_def": 66.33333333333333,
+    "sq_age": 25.42105263157895,
+    "sq_depth": 4.697268087450419,
+    "coach": ""
+  },
+  "United States": {
+    "sq_ovr": 75.0,
+    "sq_att": 75.5,
+    "sq_def": 76.33333333333333,
+    "sq_age": 27.08695652173913,
+    "sq_depth": 2.215646837627989,
+    "coach": "Mauricio Pochettino"
+  },
+  "Uruguay": {
+    "sq_ovr": 79.73913043478261,
+    "sq_att": 81.83333333333333,
+    "sq_def": 80.5,
+    "sq_age": 28.652173913043477,
+    "sq_depth": 3.003292001429399,
+    "coach": "Marcelo Bielsa"
+  },
+  "Uzbekistan": {
+    "sq_ovr": 68.16666666666667,
+    "sq_att": 66.5,
+    "sq_def": 65.0,
+    "sq_age": 27.166666666666668,
+    "sq_depth": 4.79235502302017,
+    "coach": "Srecko Katanec"
+  },
+  "Venezuela": {
+    "sq_ovr": 73.43478260869566,
+    "sq_att": 78.0,
+    "sq_def": 72.66666666666667,
+    "sq_age": 26.782608695652176,
+    "sq_depth": 3.087012191225474,
+    "coach": "Fernando Batista"
+  },
+  "Vietnam": {
+    "sq_ovr": 64.0,
+    "sq_att": 58.0,
+    "sq_def": 19.0,
+    "sq_age": 27.0,
+    "sq_depth": 0.0,
+    "coach": ""
+  },
+  "Wales": {
+    "sq_ovr": 73.47826086956522,
+    "sq_att": 76.66666666666667,
+    "sq_def": 74.66666666666667,
+    "sq_age": 27.217391304347824,
+    "sq_depth": 3.527419417511273,
+    "coach": ""
+  },
+  "Zambia": {
+    "sq_ovr": 68.22222222222223,
+    "sq_att": 69.83333333333333,
+    "sq_def": 41.666666666666664,
+    "sq_age": 25.555555555555557,
+    "sq_depth": 6.26054665699765,
+    "coach": ""
+  },
+  "Zimbabwe": {
+    "sq_ovr": 67.53846153846153,
+    "sq_att": 69.33333333333333,
+    "sq_def": 66.4,
+    "sq_age": 25.615384615384617,
+    "sq_depth": 6.1592124038628056,
+    "coach": ""
+  }
+}

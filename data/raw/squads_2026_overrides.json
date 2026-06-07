@@ -1,0 +1,12 @@
+{
+  "_comment": "Manuelle Kader-Overrides für WM 2026. Format je Team: {sq_ovr, sq_att, sq_def, sq_age, coach}",
+  "_example": {
+    "Germany": {
+      "sq_ovr": 83.5,
+      "sq_att": 85.0,
+      "sq_def": 82.0,
+      "sq_age": 26.5,
+      "coach": "Julian Nagelsmann"
+    }
+  }
+}
