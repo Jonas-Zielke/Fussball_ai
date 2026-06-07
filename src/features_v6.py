@@ -792,6 +792,34 @@ def predict_match_v6(
         odds_blended = True
         market_probs = {"home_win": float(mo["home"]), "draw": float(mo["draw"]), "away_win": float(mo["away"])}
 
+    # --- KickTipp Decision Layer ---
+    _odds_for_kt = (
+        {"home": float(market_probs["home_win"]),
+         "draw": float(market_probs["draw"]),
+         "away": float(market_probs["away_win"])}
+        if market_probs is not None
+        else {"home": p_home, "draw": p_draw, "away": p_away}
+    )
+    if not is_v7:
+        from math import exp as _ex, factorial as _fc
+        def _p(k, lam): return _ex(-max(lam, 0.1)) * (max(lam, 0.1) ** k) / _fc(k)
+        avg_grid = np.array(
+            [[_p(h, pred_hg) * _p(a, pred_ag) for a in range(10)] for h in range(10)],
+            dtype=np.float64,
+        )
+    kicktipp_tip: dict | None = None
+    try:
+        from .kicktipp import load_scheme as _kt_load_scheme, optimal_tip as _kt_optimal
+        _kt = _kt_optimal(avg_grid, _odds_for_kt, _kt_load_scheme())
+        kicktipp_tip = {
+            "home": _kt["tip"][0],
+            "away": _kt["tip"][1],
+            "expected_points": _kt["expected_points"],
+            "alternatives": _kt["alternatives"][:3],
+        }
+    except Exception:
+        pass
+
     best_score = most_likely[0]
     german_sentence = (
         f"{home_n} gewinnt zu {p_home*100:.0f}%, "
@@ -848,6 +876,7 @@ def predict_match_v6(
         "ensemble_size": len(models),
         "odds_blended": odds_blended,
         "market_probs": market_probs,
+        "kicktipp_tip": kicktipp_tip,
     }
 
 

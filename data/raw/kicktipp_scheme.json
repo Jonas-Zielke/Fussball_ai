@@ -1,0 +1,12 @@
+{
+  "_comment": "KickTipp scoring scheme. Edit to match your specific KickTipp league config.",
+  "base_tendency": 2,
+  "base_difference": 3,
+  "base_exact": 4,
+  "risiko_bonus": {
+    "enabled": true,
+    "formula": "floor_odds_minus_1",
+    "_comment_formula": "bonus = max(0, floor(decimal_odds_for_tipped_outcome - 1.0)). decimal_odds = 1 / bookmaker_probability. Example: p=0.50 -> odds=2.0 -> bonus=1; p=0.33 -> bonus=2; p=0.25 -> bonus=3.",
+    "max_bonus": 8
+  }
+}
