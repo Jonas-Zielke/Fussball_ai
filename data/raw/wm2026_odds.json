@@ -1,727 +1,687 @@
 {
-  "source": "fallback-hardcoded",
+  "source": "the-odds-api.com",
   "fetched": "2026-06-13",
   "blend_weight": 0.45,
   "matches": {
-    "Mexico|South Africa": {
-      "home": 0.7,
-      "draw": 0.17,
-      "away": 0.13
-    },
-    "South Korea|Czech Republic": {
-      "home": 0.38,
-      "draw": 0.28,
-      "away": 0.34
-    },
-    "Czech Republic|South Africa": {
-      "home": 0.5,
-      "draw": 0.27,
-      "away": 0.23
-    },
-    "Mexico|South Korea": {
-      "home": 0.52,
-      "draw": 0.26,
-      "away": 0.22
-    },
-    "Czech Republic|Mexico": {
-      "home": 0.32,
-      "draw": 0.25,
-      "away": 0.43
-    },
-    "South Africa|South Korea": {
-      "home": 0.3,
-      "draw": 0.27,
-      "away": 0.43
-    },
-    "Canada|Bosnia and Herzegovina": {
-      "home": 0.46,
-      "draw": 0.27,
-      "away": 0.27
-    },
     "Qatar|Switzerland": {
-      "home": 0.24,
-      "draw": 0.25,
-      "away": 0.51
-    },
-    "Switzerland|Bosnia and Herzegovina": {
-      "home": 0.53,
-      "draw": 0.26,
-      "away": 0.21
-    },
-    "Canada|Qatar": {
-      "home": 0.61,
-      "draw": 0.22,
-      "away": 0.17
-    },
-    "Switzerland|Canada": {
-      "home": 0.48,
-      "draw": 0.27,
-      "away": 0.25
-    },
-    "Bosnia and Herzegovina|Qatar": {
-      "home": 0.4,
-      "draw": 0.27,
-      "away": 0.33
+      "home": 0.06638528892482755,
+      "draw": 0.16409073956981055,
+      "away": 0.769523971505362
     },
     "Brazil|Morocco": {
-      "home": 0.63,
-      "draw": 0.22,
-      "away": 0.15
+      "home": 0.5500816634437568,
+      "draw": 0.27887371920683734,
+      "away": 0.17104461734940585
     },
     "Haiti|Scotland": {
-      "home": 0.21,
-      "draw": 0.23,
-      "away": 0.56
-    },
-    "Scotland|Morocco": {
-      "home": 0.37,
-      "draw": 0.28,
-      "away": 0.35
-    },
-    "Brazil|Haiti": {
-      "home": 0.84,
-      "draw": 0.11,
-      "away": 0.05
-    },
-    "Scotland|Brazil": {
-      "home": 0.12,
-      "draw": 0.18,
-      "away": 0.7
-    },
-    "Morocco|Haiti": {
-      "home": 0.69,
-      "draw": 0.2,
-      "away": 0.11
-    },
-    "United States|Paraguay": {
-      "home": 0.51,
-      "draw": 0.25,
-      "away": 0.24
+      "home": 0.15722621360433744,
+      "draw": 0.23716713919430066,
+      "away": 0.6056066472013618
     },
     "Australia|Turkey": {
-      "home": 0.38,
-      "draw": 0.28,
-      "away": 0.34
-    },
-    "United States|Australia": {
-      "home": 0.53,
-      "draw": 0.25,
-      "away": 0.22
-    },
-    "Turkey|Paraguay": {
-      "home": 0.43,
-      "draw": 0.28,
-      "away": 0.29
-    },
-    "Turkey|United States": {
-      "home": 0.33,
-      "draw": 0.25,
-      "away": 0.42
-    },
-    "Paraguay|Australia": {
-      "home": 0.41,
-      "draw": 0.28,
-      "away": 0.31
+      "home": 0.17961088590638213,
+      "draw": 0.27437148626392904,
+      "away": 0.5460176278296888
     },
     "Germany|Curaçao": {
-      "home": 0.91,
-      "draw": 0.06,
-      "away": 0.03
-    },
-    "Ivory Coast|Ecuador": {
-      "home": 0.39,
-      "draw": 0.27,
-      "away": 0.34
-    },
-    "Germany|Ivory Coast": {
-      "home": 0.68,
-      "draw": 0.21,
-      "away": 0.11
-    },
-    "Ecuador|Curaçao": {
-      "home": 0.72,
-      "draw": 0.18,
-      "away": 0.1
-    },
-    "Ecuador|Germany": {
-      "home": 0.17,
-      "draw": 0.22,
-      "away": 0.61
-    },
-    "Curaçao|Ivory Coast": {
-      "home": 0.19,
-      "draw": 0.22,
-      "away": 0.59
+      "home": 0.9228646342191786,
+      "draw": 0.05449972462954919,
+      "away": 0.022635641151272153
     },
     "Netherlands|Japan": {
-      "home": 0.65,
-      "draw": 0.22,
-      "away": 0.13
+      "home": 0.4792819707741989,
+      "draw": 0.2666682895313334,
+      "away": 0.2540497396944676
+    },
+    "Ivory Coast|Ecuador": {
+      "home": 0.2631838867972178,
+      "draw": 0.33659508390304965,
+      "away": 0.4002210292997324
     },
     "Sweden|Tunisia": {
-      "home": 0.53,
-      "draw": 0.27,
-      "away": 0.2
-    },
-    "Netherlands|Sweden": {
-      "home": 0.55,
-      "draw": 0.26,
-      "away": 0.19
-    },
-    "Tunisia|Japan": {
-      "home": 0.3,
-      "draw": 0.28,
-      "away": 0.42
-    },
-    "Japan|Sweden": {
-      "home": 0.37,
-      "draw": 0.27,
-      "away": 0.36
-    },
-    "Tunisia|Netherlands": {
-      "home": 0.13,
-      "draw": 0.2,
-      "away": 0.67
-    },
-    "Belgium|Egypt": {
-      "home": 0.69,
-      "draw": 0.19,
-      "away": 0.12
-    },
-    "Iran|New Zealand": {
-      "home": 0.49,
-      "draw": 0.27,
-      "away": 0.24
-    },
-    "Belgium|Iran": {
-      "home": 0.65,
-      "draw": 0.22,
-      "away": 0.13
-    },
-    "New Zealand|Egypt": {
-      "home": 0.29,
-      "draw": 0.28,
-      "away": 0.43
-    },
-    "Egypt|Iran": {
-      "home": 0.37,
-      "draw": 0.27,
-      "away": 0.36
-    },
-    "New Zealand|Belgium": {
-      "home": 0.11,
-      "draw": 0.18,
-      "away": 0.71
+      "home": 0.505611756542564,
+      "draw": 0.27624703004499385,
+      "away": 0.21814121341244222
     },
     "Spain|Cape Verde": {
-      "home": 0.89,
-      "draw": 0.07,
-      "away": 0.04
+      "home": 0.8795315631059941,
+      "draw": 0.08327965852584224,
+      "away": 0.03718877836816367
+    },
+    "Belgium|Egypt": {
+      "home": 0.5888308796139324,
+      "draw": 0.24128237297585742,
+      "away": 0.16988674741021
     },
     "Saudi Arabia|Uruguay": {
-      "home": 0.34,
-      "draw": 0.25,
-      "away": 0.41
+      "home": 0.11832898702560936,
+      "draw": 0.2144441866742592,
+      "away": 0.6672268263001314
     },
-    "Spain|Saudi Arabia": {
-      "home": 0.73,
-      "draw": 0.18,
-      "away": 0.09
-    },
-    "Uruguay|Cape Verde": {
-      "home": 0.76,
-      "draw": 0.16,
-      "away": 0.08
-    },
-    "Cape Verde|Saudi Arabia": {
-      "home": 0.3,
-      "draw": 0.27,
-      "away": 0.43
-    },
-    "Uruguay|Spain": {
-      "home": 0.21,
-      "draw": 0.22,
-      "away": 0.57
+    "Iran|New Zealand": {
+      "home": 0.5224479650784343,
+      "draw": 0.2742276734969506,
+      "away": 0.20332436142461516
     },
     "France|Senegal": {
-      "home": 0.63,
-      "draw": 0.22,
-      "away": 0.15
+      "home": 0.6517604551983242,
+      "draw": 0.2165844438570958,
+      "away": 0.1316551009445801
     },
     "Iraq|Norway": {
-      "home": 0.28,
-      "draw": 0.25,
-      "away": 0.47
-    },
-    "France|Iraq": {
-      "home": 0.81,
-      "draw": 0.12,
-      "away": 0.07
-    },
-    "Norway|Senegal": {
-      "home": 0.46,
-      "draw": 0.27,
-      "away": 0.27
-    },
-    "Norway|France": {
-      "home": 0.27,
-      "draw": 0.24,
-      "away": 0.49
-    },
-    "Senegal|Iraq": {
-      "home": 0.55,
-      "draw": 0.25,
-      "away": 0.2
+      "home": 0.06560431744478892,
+      "draw": 0.13404434777701008,
+      "away": 0.800351334778201
     },
     "Argentina|Algeria": {
-      "home": 0.79,
-      "draw": 0.14,
-      "away": 0.07
+      "home": 0.6857388845301937,
+      "draw": 0.20707257804676096,
+      "away": 0.10718853742304528
     },
     "Austria|Jordan": {
-      "home": 0.59,
-      "draw": 0.25,
-      "away": 0.16
-    },
-    "Argentina|Austria": {
-      "home": 0.67,
-      "draw": 0.21,
-      "away": 0.12
-    },
-    "Jordan|Algeria": {
-      "home": 0.3,
-      "draw": 0.27,
-      "away": 0.43
-    },
-    "Algeria|Austria": {
-      "home": 0.3,
-      "draw": 0.26,
-      "away": 0.44
-    },
-    "Jordan|Argentina": {
-      "home": 0.07,
-      "draw": 0.13,
-      "away": 0.8
+      "home": 0.7199023153762882,
+      "draw": 0.17485521278907207,
+      "away": 0.10524247183463978
     },
     "Portugal|DR Congo": {
-      "home": 0.83,
-      "draw": 0.11,
-      "away": 0.06
-    },
-    "Uzbekistan|Colombia": {
-      "home": 0.24,
-      "draw": 0.25,
-      "away": 0.51
-    },
-    "Portugal|Uzbekistan": {
-      "home": 0.81,
-      "draw": 0.12,
-      "away": 0.07
-    },
-    "Colombia|DR Congo": {
-      "home": 0.65,
-      "draw": 0.22,
-      "away": 0.13
-    },
-    "Colombia|Portugal": {
-      "home": 0.24,
-      "draw": 0.23,
-      "away": 0.53
-    },
-    "DR Congo|Uzbekistan": {
-      "home": 0.37,
-      "draw": 0.27,
-      "away": 0.36
+      "home": 0.7432811541708003,
+      "draw": 0.16878709424373095,
+      "away": 0.08793175158546873
     },
     "England|Croatia": {
-      "home": 0.56,
-      "draw": 0.25,
-      "away": 0.19
+      "home": 0.5571537191229932,
+      "draw": 0.25144818474621794,
+      "away": 0.19139809613078895
     },
     "Ghana|Panama": {
-      "home": 0.43,
-      "draw": 0.27,
-      "away": 0.3
+      "home": 0.44133602537499395,
+      "draw": 0.2814113873412867,
+      "away": 0.2772525872837193
+    },
+    "Uzbekistan|Colombia": {
+      "home": 0.10870876320734411,
+      "draw": 0.20389628709879404,
+      "away": 0.6873949496938618
+    },
+    "Czech Republic|South Africa": {
+      "home": 0.5394863577205198,
+      "draw": 0.2524427116660836,
+      "away": 0.2080709306133966
+    },
+    "Switzerland|Bosnia and Herzegovina": {
+      "home": 0.6009002851514976,
+      "draw": 0.23557619444526848,
+      "away": 0.1635235204032339
+    },
+    "Canada|Qatar": {
+      "home": 0.7300510775331813,
+      "draw": 0.17999517375948992,
+      "away": 0.08995374870732877
+    },
+    "Mexico|South Korea": {
+      "home": 0.48162976095138205,
+      "draw": 0.28573917469175936,
+      "away": 0.23263106435685874
+    },
+    "United States|Australia": {
+      "home": 0.603199646982778,
+      "draw": 0.2259810979942023,
+      "away": 0.17081925502301978
+    },
+    "Scotland|Morocco": {
+      "home": 0.22982643812388545,
+      "draw": 0.28885811354518287,
+      "away": 0.4813154483309316
+    },
+    "Brazil|Haiti": {
+      "home": 0.8879591979717303,
+      "draw": 0.07875850623711432,
+      "away": 0.03328229579115542
+    },
+    "Turkey|Paraguay": {
+      "home": 0.466454222755439,
+      "draw": 0.2913669660369006,
+      "away": 0.24217881120766038
+    },
+    "Netherlands|Sweden": {
+      "home": 0.5830014636626253,
+      "draw": 0.23597418458780134,
+      "away": 0.18102435174957338
+    },
+    "Germany|Ivory Coast": {
+      "home": 0.6137794518348907,
+      "draw": 0.21945656793606566,
+      "away": 0.16676398022904365
+    },
+    "Ecuador|Curaçao": {
+      "home": 0.7919412888320925,
+      "draw": 0.14093077047913158,
+      "away": 0.0671279406887759
+    },
+    "Tunisia|Japan": {
+      "home": 0.17707232843849943,
+      "draw": 0.2637116277513325,
+      "away": 0.5592160438101681
+    },
+    "Spain|Saudi Arabia": {
+      "home": 0.8602855288136865,
+      "draw": 0.09958031239641571,
+      "away": 0.04013415878989791
+    },
+    "Belgium|Iran": {
+      "home": 0.6768309455853101,
+      "draw": 0.20253020108607242,
+      "away": 0.12063885332861762
+    },
+    "Uruguay|Cape Verde": {
+      "home": 0.6570595426007314,
+      "draw": 0.21307279213421498,
+      "away": 0.12986766526505358
+    },
+    "New Zealand|Egypt": {
+      "home": 0.19723358982059155,
+      "draw": 0.2566277381249155,
+      "away": 0.546138672054493
+    },
+    "Argentina|Austria": {
+      "home": 0.5821055049848511,
+      "draw": 0.24537145911099992,
+      "away": 0.17252303590414894
+    },
+    "France|Iraq": {
+      "home": 0.8521267113957618,
+      "draw": 0.10808017868599837,
+      "away": 0.039793109918239866
+    },
+    "Norway|Senegal": {
+      "home": 0.44451223148127905,
+      "draw": 0.27409501056652297,
+      "away": 0.2813927579521979
+    },
+    "Jordan|Algeria": {
+      "home": 0.14496277980274075,
+      "draw": 0.22470782204162687,
+      "away": 0.6303293981556324
+    },
+    "Portugal|Uzbekistan": {
+      "home": 0.7627913462797923,
+      "draw": 0.1534656546733917,
+      "away": 0.08374299904681601
     },
     "England|Ghana": {
-      "home": 0.71,
-      "draw": 0.18,
-      "away": 0.11
+      "home": 0.7180764724789578,
+      "draw": 0.1806704484166083,
+      "away": 0.10125307910443403
     },
     "Panama|Croatia": {
-      "home": 0.27,
-      "draw": 0.27,
-      "away": 0.46
+      "home": 0.14649784233515392,
+      "draw": 0.24270841655384046,
+      "away": 0.6107937411110056
     },
-    "Panama|England": {
-      "home": 0.11,
-      "draw": 0.17,
-      "away": 0.72
+    "Colombia|DR Congo": {
+      "home": 0.6444695180742306,
+      "draw": 0.2263758022614689,
+      "away": 0.12915467966430041
+    },
+    "Bosnia and Herzegovina|Qatar": {
+      "home": 0.5817454094800655,
+      "draw": 0.2506119603338322,
+      "away": 0.16764263018610215
+    },
+    "Switzerland|Canada": {
+      "home": 0.44620070072345797,
+      "draw": 0.2835816184424236,
+      "away": 0.27021768083411846
+    },
+    "Scotland|Brazil": {
+      "home": 0.14262124573696025,
+      "draw": 0.20690982266371327,
+      "away": 0.6504689315993265
+    },
+    "Morocco|Haiti": {
+      "home": 0.705303820286702,
+      "draw": 0.1893600962283527,
+      "away": 0.10533608348494528
+    },
+    "Czech Republic|Mexico": {
+      "home": 0.21019703921938113,
+      "draw": 0.27021830007097447,
+      "away": 0.5195846607096445
+    },
+    "South Africa|South Korea": {
+      "home": 0.169933732220627,
+      "draw": 0.24220313521081444,
+      "away": 0.5878631325685585
+    },
+    "Curaçao|Ivory Coast": {
+      "home": 0.07472814877201299,
+      "draw": 0.1553168590058579,
+      "away": 0.769954992222129
+    },
+    "Ecuador|Germany": {
+      "home": 0.2028898574756112,
+      "draw": 0.25274661384069114,
+      "away": 0.5443635286836976
+    },
+    "Japan|Sweden": {
+      "home": 0.45133666818354046,
+      "draw": 0.27947864915672904,
+      "away": 0.2691846826597304
+    },
+    "Tunisia|Netherlands": {
+      "home": 0.150095462674023,
+      "draw": 0.22273719061794545,
+      "away": 0.6271673467080315
+    },
+    "Paraguay|Australia": {
+      "home": 0.44275373251406697,
+      "draw": 0.29243767448790287,
+      "away": 0.26480859299803017
+    },
+    "Turkey|United States": {
+      "home": 0.3526176462499245,
+      "draw": 0.2702149315583176,
+      "away": 0.377167422191758
+    },
+    "Norway|France": {
+      "home": 0.22132912636974594,
+      "draw": 0.26237573596181946,
+      "away": 0.5162951376684347
+    },
+    "Senegal|Iraq": {
+      "home": 0.6665281570493169,
+      "draw": 0.21017560696668164,
+      "away": 0.1232962359840014
+    },
+    "Cape Verde|Saudi Arabia": {
+      "home": 0.3891137770271762,
+      "draw": 0.26491746220756,
+      "away": 0.3459687607652638
+    },
+    "Uruguay|Spain": {
+      "home": 0.18029528954864546,
+      "draw": 0.24128763808075812,
+      "away": 0.5784170723705964
+    },
+    "New Zealand|Belgium": {
+      "home": 0.09869641941937252,
+      "draw": 0.17206071969605236,
+      "away": 0.7292428608845751
+    },
+    "Egypt|Iran": {
+      "home": 0.42144319232348737,
+      "draw": 0.3122965662022062,
+      "away": 0.2662602414743065
     },
     "Croatia|Ghana": {
-      "home": 0.56,
-      "draw": 0.25,
-      "away": 0.19
+      "home": 0.5720255332029998,
+      "draw": 0.2520776003206452,
+      "away": 0.17589686647635497
     },
-    "South Africa|Mexico": {
-      "home": 0.13,
-      "draw": 0.17,
-      "away": 0.7
+    "Panama|England": {
+      "home": 0.10294891073398742,
+      "draw": 0.16261683398770724,
+      "away": 0.7344342552783054
     },
-    "Czech Republic|South Korea": {
-      "home": 0.34,
-      "draw": 0.28,
-      "away": 0.38
+    "Colombia|Portugal": {
+      "home": 0.26983189009797187,
+      "draw": 0.28666247415873125,
+      "away": 0.44350563574329693
     },
-    "South Africa|Czech Republic": {
-      "home": 0.23,
-      "draw": 0.27,
-      "away": 0.5
+    "DR Congo|Uzbekistan": {
+      "home": 0.4072322378105404,
+      "draw": 0.2894509933394181,
+      "away": 0.3033167688500415
     },
-    "South Korea|Mexico": {
-      "home": 0.22,
-      "draw": 0.26,
-      "away": 0.52
+    "Algeria|Austria": {
+      "home": 0.26365207792884127,
+      "draw": 0.2988354829742335,
+      "away": 0.4375124390969253
     },
-    "Mexico|Czech Republic": {
-      "home": 0.43,
-      "draw": 0.25,
-      "away": 0.32
-    },
-    "South Korea|South Africa": {
-      "home": 0.43,
-      "draw": 0.27,
-      "away": 0.3
-    },
-    "Bosnia and Herzegovina|Canada": {
-      "home": 0.27,
-      "draw": 0.27,
-      "away": 0.46
+    "Jordan|Argentina": {
+      "home": 0.0704852060177387,
+      "draw": 0.14115110620677396,
+      "away": 0.7883636877754873
     },
     "Switzerland|Qatar": {
-      "home": 0.51,
-      "draw": 0.25,
-      "away": 0.24
-    },
-    "Bosnia and Herzegovina|Switzerland": {
-      "home": 0.21,
-      "draw": 0.26,
-      "away": 0.53
-    },
-    "Qatar|Canada": {
-      "home": 0.17,
-      "draw": 0.22,
-      "away": 0.61
-    },
-    "Canada|Switzerland": {
-      "home": 0.25,
-      "draw": 0.27,
-      "away": 0.48
-    },
-    "Qatar|Bosnia and Herzegovina": {
-      "home": 0.33,
-      "draw": 0.27,
-      "away": 0.4
+      "home": 0.769523971505362,
+      "draw": 0.16409073956981055,
+      "away": 0.06638528892482755
     },
     "Morocco|Brazil": {
-      "home": 0.15,
-      "draw": 0.22,
-      "away": 0.63
+      "home": 0.17104461734940585,
+      "draw": 0.27887371920683734,
+      "away": 0.5500816634437568
     },
     "Scotland|Haiti": {
-      "home": 0.56,
-      "draw": 0.23,
-      "away": 0.21
-    },
-    "Morocco|Scotland": {
-      "home": 0.35,
-      "draw": 0.28,
-      "away": 0.37
-    },
-    "Haiti|Brazil": {
-      "home": 0.05,
-      "draw": 0.11,
-      "away": 0.84
-    },
-    "Brazil|Scotland": {
-      "home": 0.7,
-      "draw": 0.18,
-      "away": 0.12
-    },
-    "Haiti|Morocco": {
-      "home": 0.11,
-      "draw": 0.2,
-      "away": 0.69
-    },
-    "Paraguay|United States": {
-      "home": 0.24,
-      "draw": 0.25,
-      "away": 0.51
+      "home": 0.6056066472013618,
+      "draw": 0.23716713919430066,
+      "away": 0.15722621360433744
     },
     "Turkey|Australia": {
-      "home": 0.34,
-      "draw": 0.28,
-      "away": 0.38
-    },
-    "Australia|United States": {
-      "home": 0.22,
-      "draw": 0.25,
-      "away": 0.53
-    },
-    "Paraguay|Turkey": {
-      "home": 0.29,
-      "draw": 0.28,
-      "away": 0.43
-    },
-    "United States|Turkey": {
-      "home": 0.42,
-      "draw": 0.25,
-      "away": 0.33
-    },
-    "Australia|Paraguay": {
-      "home": 0.31,
-      "draw": 0.28,
-      "away": 0.41
+      "home": 0.5460176278296888,
+      "draw": 0.27437148626392904,
+      "away": 0.17961088590638213
     },
     "Curaçao|Germany": {
-      "home": 0.03,
-      "draw": 0.06,
-      "away": 0.91
-    },
-    "Ecuador|Ivory Coast": {
-      "home": 0.34,
-      "draw": 0.27,
-      "away": 0.39
-    },
-    "Ivory Coast|Germany": {
-      "home": 0.11,
-      "draw": 0.21,
-      "away": 0.68
-    },
-    "Curaçao|Ecuador": {
-      "home": 0.1,
-      "draw": 0.18,
-      "away": 0.72
-    },
-    "Germany|Ecuador": {
-      "home": 0.61,
-      "draw": 0.22,
-      "away": 0.17
-    },
-    "Ivory Coast|Curaçao": {
-      "home": 0.59,
-      "draw": 0.22,
-      "away": 0.19
+      "home": 0.022635641151272153,
+      "draw": 0.05449972462954919,
+      "away": 0.9228646342191786
     },
     "Japan|Netherlands": {
-      "home": 0.13,
-      "draw": 0.22,
-      "away": 0.65
+      "home": 0.2540497396944676,
+      "draw": 0.2666682895313334,
+      "away": 0.4792819707741989
+    },
+    "Ecuador|Ivory Coast": {
+      "home": 0.4002210292997324,
+      "draw": 0.33659508390304965,
+      "away": 0.2631838867972178
     },
     "Tunisia|Sweden": {
-      "home": 0.2,
-      "draw": 0.27,
-      "away": 0.53
-    },
-    "Sweden|Netherlands": {
-      "home": 0.19,
-      "draw": 0.26,
-      "away": 0.55
-    },
-    "Japan|Tunisia": {
-      "home": 0.42,
-      "draw": 0.28,
-      "away": 0.3
-    },
-    "Sweden|Japan": {
-      "home": 0.36,
-      "draw": 0.27,
-      "away": 0.37
-    },
-    "Netherlands|Tunisia": {
-      "home": 0.67,
-      "draw": 0.2,
-      "away": 0.13
-    },
-    "Egypt|Belgium": {
-      "home": 0.12,
-      "draw": 0.19,
-      "away": 0.69
-    },
-    "New Zealand|Iran": {
-      "home": 0.24,
-      "draw": 0.27,
-      "away": 0.49
-    },
-    "Iran|Belgium": {
-      "home": 0.13,
-      "draw": 0.22,
-      "away": 0.65
-    },
-    "Egypt|New Zealand": {
-      "home": 0.43,
-      "draw": 0.28,
-      "away": 0.29
-    },
-    "Iran|Egypt": {
-      "home": 0.36,
-      "draw": 0.27,
-      "away": 0.37
-    },
-    "Belgium|New Zealand": {
-      "home": 0.71,
-      "draw": 0.18,
-      "away": 0.11
+      "home": 0.21814121341244222,
+      "draw": 0.27624703004499385,
+      "away": 0.505611756542564
     },
     "Cape Verde|Spain": {
-      "home": 0.04,
-      "draw": 0.07,
-      "away": 0.89
+      "home": 0.03718877836816367,
+      "draw": 0.08327965852584224,
+      "away": 0.8795315631059941
+    },
+    "Egypt|Belgium": {
+      "home": 0.16988674741021,
+      "draw": 0.24128237297585742,
+      "away": 0.5888308796139324
     },
     "Uruguay|Saudi Arabia": {
-      "home": 0.41,
-      "draw": 0.25,
-      "away": 0.34
+      "home": 0.6672268263001314,
+      "draw": 0.2144441866742592,
+      "away": 0.11832898702560936
     },
-    "Saudi Arabia|Spain": {
-      "home": 0.09,
-      "draw": 0.18,
-      "away": 0.73
-    },
-    "Cape Verde|Uruguay": {
-      "home": 0.08,
-      "draw": 0.16,
-      "away": 0.76
-    },
-    "Saudi Arabia|Cape Verde": {
-      "home": 0.43,
-      "draw": 0.27,
-      "away": 0.3
-    },
-    "Spain|Uruguay": {
-      "home": 0.57,
-      "draw": 0.22,
-      "away": 0.21
+    "New Zealand|Iran": {
+      "home": 0.20332436142461516,
+      "draw": 0.2742276734969506,
+      "away": 0.5224479650784343
     },
     "Senegal|France": {
-      "home": 0.15,
-      "draw": 0.22,
-      "away": 0.63
+      "home": 0.1316551009445801,
+      "draw": 0.2165844438570958,
+      "away": 0.6517604551983242
     },
     "Norway|Iraq": {
-      "home": 0.47,
-      "draw": 0.25,
-      "away": 0.28
-    },
-    "Iraq|France": {
-      "home": 0.07,
-      "draw": 0.12,
-      "away": 0.81
-    },
-    "Senegal|Norway": {
-      "home": 0.27,
-      "draw": 0.27,
-      "away": 0.46
-    },
-    "France|Norway": {
-      "home": 0.49,
-      "draw": 0.24,
-      "away": 0.27
-    },
-    "Iraq|Senegal": {
-      "home": 0.2,
-      "draw": 0.25,
-      "away": 0.55
+      "home": 0.800351334778201,
+      "draw": 0.13404434777701008,
+      "away": 0.06560431744478892
     },
     "Algeria|Argentina": {
-      "home": 0.07,
-      "draw": 0.14,
-      "away": 0.79
+      "home": 0.10718853742304528,
+      "draw": 0.20707257804676096,
+      "away": 0.6857388845301937
     },
     "Jordan|Austria": {
-      "home": 0.16,
-      "draw": 0.25,
-      "away": 0.59
-    },
-    "Austria|Argentina": {
-      "home": 0.12,
-      "draw": 0.21,
-      "away": 0.67
-    },
-    "Algeria|Jordan": {
-      "home": 0.43,
-      "draw": 0.27,
-      "away": 0.3
-    },
-    "Austria|Algeria": {
-      "home": 0.44,
-      "draw": 0.26,
-      "away": 0.3
-    },
-    "Argentina|Jordan": {
-      "home": 0.8,
-      "draw": 0.13,
-      "away": 0.07
+      "home": 0.10524247183463978,
+      "draw": 0.17485521278907207,
+      "away": 0.7199023153762882
     },
     "DR Congo|Portugal": {
-      "home": 0.06,
-      "draw": 0.11,
-      "away": 0.83
-    },
-    "Colombia|Uzbekistan": {
-      "home": 0.51,
-      "draw": 0.25,
-      "away": 0.24
-    },
-    "Uzbekistan|Portugal": {
-      "home": 0.07,
-      "draw": 0.12,
-      "away": 0.81
-    },
-    "DR Congo|Colombia": {
-      "home": 0.13,
-      "draw": 0.22,
-      "away": 0.65
-    },
-    "Portugal|Colombia": {
-      "home": 0.53,
-      "draw": 0.23,
-      "away": 0.24
-    },
-    "Uzbekistan|DR Congo": {
-      "home": 0.36,
-      "draw": 0.27,
-      "away": 0.37
+      "home": 0.08793175158546873,
+      "draw": 0.16878709424373095,
+      "away": 0.7432811541708003
     },
     "Croatia|England": {
-      "home": 0.19,
-      "draw": 0.25,
-      "away": 0.56
+      "home": 0.19139809613078895,
+      "draw": 0.25144818474621794,
+      "away": 0.5571537191229932
     },
     "Panama|Ghana": {
-      "home": 0.3,
-      "draw": 0.27,
-      "away": 0.43
+      "home": 0.2772525872837193,
+      "draw": 0.2814113873412867,
+      "away": 0.44133602537499395
+    },
+    "Colombia|Uzbekistan": {
+      "home": 0.6873949496938618,
+      "draw": 0.20389628709879404,
+      "away": 0.10870876320734411
+    },
+    "South Africa|Czech Republic": {
+      "home": 0.2080709306133966,
+      "draw": 0.2524427116660836,
+      "away": 0.5394863577205198
+    },
+    "Bosnia and Herzegovina|Switzerland": {
+      "home": 0.1635235204032339,
+      "draw": 0.23557619444526848,
+      "away": 0.6009002851514976
+    },
+    "Qatar|Canada": {
+      "home": 0.08995374870732877,
+      "draw": 0.17999517375948992,
+      "away": 0.7300510775331813
+    },
+    "South Korea|Mexico": {
+      "home": 0.23263106435685874,
+      "draw": 0.28573917469175936,
+      "away": 0.48162976095138205
+    },
+    "Australia|United States": {
+      "home": 0.17081925502301978,
+      "draw": 0.2259810979942023,
+      "away": 0.603199646982778
+    },
+    "Morocco|Scotland": {
+      "home": 0.4813154483309316,
+      "draw": 0.28885811354518287,
+      "away": 0.22982643812388545
+    },
+    "Haiti|Brazil": {
+      "home": 0.03328229579115542,
+      "draw": 0.07875850623711432,
+      "away": 0.8879591979717303
+    },
+    "Paraguay|Turkey": {
+      "home": 0.24217881120766038,
+      "draw": 0.2913669660369006,
+      "away": 0.466454222755439
+    },
+    "Sweden|Netherlands": {
+      "home": 0.18102435174957338,
+      "draw": 0.23597418458780134,
+      "away": 0.5830014636626253
+    },
+    "Ivory Coast|Germany": {
+      "home": 0.16676398022904365,
+      "draw": 0.21945656793606566,
+      "away": 0.6137794518348907
+    },
+    "Curaçao|Ecuador": {
+      "home": 0.0671279406887759,
+      "draw": 0.14093077047913158,
+      "away": 0.7919412888320925
+    },
+    "Japan|Tunisia": {
+      "home": 0.5592160438101681,
+      "draw": 0.2637116277513325,
+      "away": 0.17707232843849943
+    },
+    "Saudi Arabia|Spain": {
+      "home": 0.04013415878989791,
+      "draw": 0.09958031239641571,
+      "away": 0.8602855288136865
+    },
+    "Iran|Belgium": {
+      "home": 0.12063885332861762,
+      "draw": 0.20253020108607242,
+      "away": 0.6768309455853101
+    },
+    "Cape Verde|Uruguay": {
+      "home": 0.12986766526505358,
+      "draw": 0.21307279213421498,
+      "away": 0.6570595426007314
+    },
+    "Egypt|New Zealand": {
+      "home": 0.546138672054493,
+      "draw": 0.2566277381249155,
+      "away": 0.19723358982059155
+    },
+    "Austria|Argentina": {
+      "home": 0.17252303590414894,
+      "draw": 0.24537145911099992,
+      "away": 0.5821055049848511
+    },
+    "Iraq|France": {
+      "home": 0.039793109918239866,
+      "draw": 0.10808017868599837,
+      "away": 0.8521267113957618
+    },
+    "Senegal|Norway": {
+      "home": 0.2813927579521979,
+      "draw": 0.27409501056652297,
+      "away": 0.44451223148127905
+    },
+    "Algeria|Jordan": {
+      "home": 0.6303293981556324,
+      "draw": 0.22470782204162687,
+      "away": 0.14496277980274075
+    },
+    "Uzbekistan|Portugal": {
+      "home": 0.08374299904681601,
+      "draw": 0.1534656546733917,
+      "away": 0.7627913462797923
     },
     "Ghana|England": {
-      "home": 0.11,
-      "draw": 0.18,
-      "away": 0.71
+      "home": 0.10125307910443403,
+      "draw": 0.1806704484166083,
+      "away": 0.7180764724789578
     },
     "Croatia|Panama": {
-      "home": 0.46,
-      "draw": 0.27,
-      "away": 0.27
+      "home": 0.6107937411110056,
+      "draw": 0.24270841655384046,
+      "away": 0.14649784233515392
     },
-    "England|Panama": {
-      "home": 0.72,
-      "draw": 0.17,
-      "away": 0.11
+    "DR Congo|Colombia": {
+      "home": 0.12915467966430041,
+      "draw": 0.2263758022614689,
+      "away": 0.6444695180742306
+    },
+    "Qatar|Bosnia and Herzegovina": {
+      "home": 0.16764263018610215,
+      "draw": 0.2506119603338322,
+      "away": 0.5817454094800655
+    },
+    "Canada|Switzerland": {
+      "home": 0.27021768083411846,
+      "draw": 0.2835816184424236,
+      "away": 0.44620070072345797
+    },
+    "Brazil|Scotland": {
+      "home": 0.6504689315993265,
+      "draw": 0.20690982266371327,
+      "away": 0.14262124573696025
+    },
+    "Haiti|Morocco": {
+      "home": 0.10533608348494528,
+      "draw": 0.1893600962283527,
+      "away": 0.705303820286702
+    },
+    "Mexico|Czech Republic": {
+      "home": 0.5195846607096445,
+      "draw": 0.27021830007097447,
+      "away": 0.21019703921938113
+    },
+    "South Korea|South Africa": {
+      "home": 0.5878631325685585,
+      "draw": 0.24220313521081444,
+      "away": 0.169933732220627
+    },
+    "Ivory Coast|Curaçao": {
+      "home": 0.769954992222129,
+      "draw": 0.1553168590058579,
+      "away": 0.07472814877201299
+    },
+    "Germany|Ecuador": {
+      "home": 0.5443635286836976,
+      "draw": 0.25274661384069114,
+      "away": 0.2028898574756112
+    },
+    "Sweden|Japan": {
+      "home": 0.2691846826597304,
+      "draw": 0.27947864915672904,
+      "away": 0.45133666818354046
+    },
+    "Netherlands|Tunisia": {
+      "home": 0.6271673467080315,
+      "draw": 0.22273719061794545,
+      "away": 0.150095462674023
+    },
+    "Australia|Paraguay": {
+      "home": 0.26480859299803017,
+      "draw": 0.29243767448790287,
+      "away": 0.44275373251406697
+    },
+    "United States|Turkey": {
+      "home": 0.377167422191758,
+      "draw": 0.2702149315583176,
+      "away": 0.3526176462499245
+    },
+    "France|Norway": {
+      "home": 0.5162951376684347,
+      "draw": 0.26237573596181946,
+      "away": 0.22132912636974594
+    },
+    "Iraq|Senegal": {
+      "home": 0.1232962359840014,
+      "draw": 0.21017560696668164,
+      "away": 0.6665281570493169
+    },
+    "Saudi Arabia|Cape Verde": {
+      "home": 0.3459687607652638,
+      "draw": 0.26491746220756,
+      "away": 0.3891137770271762
+    },
+    "Spain|Uruguay": {
+      "home": 0.5784170723705964,
+      "draw": 0.24128763808075812,
+      "away": 0.18029528954864546
+    },
+    "Belgium|New Zealand": {
+      "home": 0.7292428608845751,
+      "draw": 0.17206071969605236,
+      "away": 0.09869641941937252
+    },
+    "Iran|Egypt": {
+      "home": 0.2662602414743065,
+      "draw": 0.3122965662022062,
+      "away": 0.42144319232348737
     },
     "Ghana|Croatia": {
-      "home": 0.19,
-      "draw": 0.25,
-      "away": 0.56
+      "home": 0.17589686647635497,
+      "draw": 0.2520776003206452,
+      "away": 0.5720255332029998
+    },
+    "England|Panama": {
+      "home": 0.7344342552783054,
+      "draw": 0.16261683398770724,
+      "away": 0.10294891073398742
+    },
+    "Portugal|Colombia": {
+      "home": 0.44350563574329693,
+      "draw": 0.28666247415873125,
+      "away": 0.26983189009797187
+    },
+    "Uzbekistan|DR Congo": {
+      "home": 0.3033167688500415,
+      "draw": 0.2894509933394181,
+      "away": 0.4072322378105404
+    },
+    "Austria|Algeria": {
+      "home": 0.4375124390969253,
+      "draw": 0.2988354829742335,
+      "away": 0.26365207792884127
+    },
+    "Argentina|Jordan": {
+      "home": 0.7883636877754873,
+      "draw": 0.14115110620677396,
+      "away": 0.0704852060177387
     }
   }
 }

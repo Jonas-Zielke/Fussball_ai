@@ -16,6 +16,8 @@ TEAM_ALIASES: dict[str, str] = {
     "curacao": "Curaçao",
     "congo dr": "DR Congo",
     "democratic republic of the congo": "DR Congo",
+    "bosnia & herzegovina": "Bosnia and Herzegovina",
+    "bosnia-herzegovina": "Bosnia and Herzegovina",
     # USA-Varianten
     "usa": "United States",
     "united states": "United States",

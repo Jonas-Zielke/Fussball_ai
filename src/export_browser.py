@@ -14,6 +14,7 @@ Im Browser: Vanilla-JS-Inference (~5KB), kein ONNX/TF.js noetig.
 from __future__ import annotations
 
 import json
+import os
 import sys
 from pathlib import Path
 from typing import Any
@@ -26,9 +27,10 @@ from .train_v2 import FootballNet, MODELS_DIR
 from .features_v2 import get_current_team_ratings, _team_to_continent, ELOG_START
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-# Output ins public/-Verzeichnis der Webseite
-# REPO_ROOT ist E:\Projects\Fussball_ai, Ziel ist E:\Profilov2\public\data\wm-predictor
-WEBSITE_PUBLIC = Path("E:/Profilov2/public/data/wm-predictor")
+# Output ins public/-Verzeichnis der Webseite (portfoliov3; via WM_BROWSER_PUBLIC
+# überschreibbar). Profilov2 war die alte Seite.
+WEBSITE_PUBLIC = Path(os.environ.get(
+    "WM_BROWSER_PUBLIC", "E:/portfoliov3/public/data/wm-predictor"))
 WEBSITE_PUBLIC.mkdir(parents=True, exist_ok=True)
 
 

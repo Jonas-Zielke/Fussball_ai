@@ -29,7 +29,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 OUT_FILE = REPO_ROOT / "data" / "raw" / "wm2026_odds.json"
 BLEND_WEIGHT = 0.45
-SPORT_KEY = "soccer_fifa_world_cup_2026"
+SPORT_KEY = "soccer_fifa_world_cup"
 
 # the-odds-api uses its own team spellings ("USA", "Korea Republic", "Türkiye");
 # the model looks odds up by martj42-canonical names, so live keys MUST be
