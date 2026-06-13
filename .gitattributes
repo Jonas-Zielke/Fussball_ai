@@ -1,0 +1,8 @@
+# core.autocrlf=true would smudge LF->CRLF on checkout. The LightGBM text model is
+# pure ASCII, so that conversion corrupts its parser (segfault on load). Keep model
+# and data artifacts byte-exact (binary; no EOL conversion).
+models/*.txt -text
+*.onnx binary
+*.pt binary
+*.npz binary
+*.parquet binary
