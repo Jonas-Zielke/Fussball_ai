@@ -39,11 +39,17 @@ SHOOTOUTS_URL = (
 SHOOTOUTS_PATH = RAW_DIR / "shootouts.csv"
 
 
-def _download_with_progress(url: str, dest: Path) -> None:
-    """Laedt eine Datei herunter und schreibt sie atomar."""
-    if dest.exists() and dest.stat().st_size > 0:
+def _download_with_progress(url: str, dest: Path, force: bool = False) -> None:
+    """Laedt eine Datei herunter und schreibt sie atomar.
+
+    Mit force=True wird eine vorhandene Datei immer neu geladen – wichtig
+    waehrend des Turniers, da martj42 stuendlich neue Ergebnisse pusht.
+    """
+    if dest.exists() and dest.stat().st_size > 0 and not force:
         print(f"  [skip] {dest.name} existiert bereits ({dest.stat().st_size:,} bytes).")
         return
+    if force and dest.exists():
+        print(f"  [force] {dest.name} wird neu geladen (alt: {dest.stat().st_size:,} bytes).")
     print(f"  [get ] {url}")
     resp = requests.get(url, stream=True, timeout=60)
     resp.raise_for_status()
@@ -71,24 +77,24 @@ def _download_with_progress(url: str, dest: Path) -> None:
     print(f"  [ok  ] geschrieben: {dest} ({dest.stat().st_size:,} bytes, sha256={hash_sha.hexdigest()[:12]})")
 
 
-def download_results() -> Path:
+def download_results(force: bool = False) -> Path:
     """Laedt die Hauptdaten (results.csv) herunter."""
     print(">> Lade Hauptdatensatz (results.csv)...")
-    _download_with_progress(RESULTS_URL, RESULTS_PATH)
+    _download_with_progress(RESULTS_URL, RESULTS_PATH, force=force)
     return RESULTS_PATH
 
 
-def download_shootouts() -> Path:
+def download_shootouts(force: bool = False) -> Path:
     """Laedt die Elfmeterschiessen-Historie herunter (optional, fuer K.o.-Runden)."""
     print(">> Lade shootouts.csv (optional)...")
-    _download_with_progress(SHOOTOUTS_URL, SHOOTOUTS_PATH)
+    _download_with_progress(SHOOTOUTS_URL, SHOOTOUTS_PATH, force=force)
     return SHOOTOUTS_PATH
 
 
-def download_goalscorers() -> Path:
+def download_goalscorers(force: bool = False) -> Path:
     """Laedt die Torschuetzen-Historie herunter (optional, gross)."""
     print(">> Lade goalscorers.csv (optional, ~5MB)...")
-    _download_with_progress(GOALSCORERS_URL, GOALSCORERS_PATH)
+    _download_with_progress(GOALSCORERS_URL, GOALSCORERS_PATH, force=force)
     return GOALSCORERS_PATH
 
 
@@ -104,13 +110,28 @@ def verify_results_integrity(path: Path) -> None:
     print(f"  [verify] {rows:,} Zeilen OK.")
 
 
-def main() -> int:
+def main(argv: list[str] | None = None) -> int:
+    import argparse
+
+    ap = argparse.ArgumentParser(description="WM 2026 Predictor - Datendownload")
+    ap.add_argument(
+        "--force", action="store_true",
+        help="Vorhandene Dateien neu laden (martj42 aktualisiert stuendlich).",
+    )
+    ap.add_argument(
+        "--goalscorers", action="store_true",
+        help="Zusaetzlich goalscorers.csv laden (~5MB).",
+    )
+    args = ap.parse_args(argv)
+
     print("=" * 70)
-    print(" WM 2026 Predictor - Datendownload")
+    print(" WM 2026 Predictor - Datendownload" + ("  [FORCE]" if args.force else ""))
     print("=" * 70)
-    download_results()
+    download_results(force=args.force)
     verify_results_integrity(RESULTS_PATH)
-    download_shootouts()
+    download_shootouts(force=args.force)
+    if args.goalscorers:
+        download_goalscorers(force=args.force)
     print("=" * 70)
     print(" Fertig. Rohdaten liegen in:", RAW_DIR)
     return 0

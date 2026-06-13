@@ -148,7 +148,14 @@ def _get_squad_tensor(
     match_year: int,
     tensors: dict[tuple[str, int], np.ndarray],
 ) -> np.ndarray:
-    """Return player tensor for nation at match_year (with backward fill)."""
+    """Return player tensor for nation at match_year (with backward fill).
+
+    Matches before 2015 (= before players_15 data existed) get the all-zero
+    "missing" tensor — the clamp in _fifa_year would otherwise leak future
+    FIFA-15 data backward into earlier matches.
+    """
+    if match_year < 2000 + FIFA_YEAR_MIN:
+        return np.zeros((N_PLAYERS, PLAYER_DIM), dtype=np.float32)
     fy = _fifa_year(match_year)
     # Try exact year first, then search backward
     for y in range(fy, FIFA_YEAR_MIN - 1, -1):

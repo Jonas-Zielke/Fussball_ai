@@ -133,6 +133,9 @@ class SeqEncoder(nn.Module):
     def forward(self, seq: torch.Tensor) -> torch.Tensor:
         """seq: (B, K, seq_dim) → (B, proj)"""
         pad = (seq.abs().sum(-1) == 0)          # (B, K) — zero rows are padding
+        # PyTorch Attention produces NaN when ALL tokens are masked; always keep last
+        # Use cat instead of in-place assignment for ONNX compatibility
+        pad = torch.cat([pad[:, :-1], torch.zeros_like(pad[:, :1])], dim=1)
         x = F.gelu(self.proj(seq))
         x = self.pe(x)
         x = self.encoder(x, src_key_padding_mask=pad)
@@ -155,6 +158,8 @@ class SquadEncoder(nn.Module):
     def forward(self, squad: torch.Tensor) -> torch.Tensor:
         """squad: (B, N, player_dim) → (B, proj)"""
         pad = (squad.abs().sum(-1) == 0)
+        # Use cat instead of in-place assignment for ONNX compatibility
+        pad = torch.cat([pad[:, :-1], torch.zeros_like(pad[:, :1])], dim=1)
         x = F.gelu(self.proj(squad))
         x = self.encoder(x, src_key_padding_mask=pad)
         valid = (~pad).unsqueeze(-1).float()
@@ -266,7 +271,8 @@ class E8Net(nn.Module):
         combined = torch.cat([s, fused_teams, context], dim=-1)
         feat = self.pre_head(combined)
 
-        log_lam = self.poisson_head(feat)
+        # Clamp log-lambda: lambda ∈ [exp(-2.5), exp(3.0)] = [0.08, 20.1]
+        log_lam = torch.clamp(self.poisson_head(feat), min=-2.5, max=3.0)
         ko = self.ko_head(feat)
         pen = self.pen_head(feat).squeeze(-1)
 

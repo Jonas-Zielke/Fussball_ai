@@ -209,17 +209,27 @@ def build_feature_table_v6() -> Path:
         cont_a = _team_to_continent(away)
 
         # --- V6 NEW: Squad features ---
-        sq_h = squad_get(home, year)
-        sq_a = squad_get(away, year)
-        sq_ovr_h = sq_h["sq_ovr"]
-        sq_ovr_a = sq_a["sq_ovr"]
-        sq_att_h = sq_h["sq_att"]
-        sq_att_a = sq_a["sq_att"]
-        sq_def_h = sq_h["sq_def"]
-        sq_def_a = sq_a["sq_def"]
-        sq_diff = sq_ovr_h - sq_ovr_a
-        sq_age_h = sq_h["sq_age"]
-        sq_age_a = sq_a["sq_age"]
+        # FIFA-Ratings beginnen mit players_15 (Stand Ende 2014). Für frühere
+        # Spiele würde der nearest-year-Lookup Zukunftsdaten rückwärts leaken
+        # -> als fehlend (NaN) markieren; Training imputiert mit Train-Medianen.
+        if year < 2015:
+            sq_ovr_h = sq_ovr_a = float("nan")
+            sq_att_h = sq_att_a = float("nan")
+            sq_def_h = sq_def_a = float("nan")
+            sq_age_h = sq_age_a = float("nan")
+            sq_diff = float("nan")
+        else:
+            sq_h = squad_get(home, year)
+            sq_a = squad_get(away, year)
+            sq_ovr_h = sq_h["sq_ovr"]
+            sq_ovr_a = sq_a["sq_ovr"]
+            sq_att_h = sq_h["sq_att"]
+            sq_att_a = sq_a["sq_att"]
+            sq_def_h = sq_h["sq_def"]
+            sq_def_a = sq_a["sq_def"]
+            sq_diff = sq_ovr_h - sq_ovr_a
+            sq_age_h = sq_h["sq_age"]
+            sq_age_a = sq_a["sq_age"]
 
         # Target
         if hs > as_:
@@ -513,6 +523,56 @@ def wdl_from_grid(grid: np.ndarray) -> tuple[float, float, float]:
         p_draw /= total
         p_away /= total
     return p_home, p_draw, p_away
+
+
+def supremacy_blend_grid(
+    lam_h: float,
+    lam_a: float,
+    dc_rho: float,
+    market_wdl: tuple[float, float, float],
+    w: float,
+    n: int = 10,
+) -> np.ndarray:
+    """Score grid whose home-vs-away balance is blended toward the market.
+
+    Bookmaker 1X2 odds are informative about *who* wins (supremacy) but not
+    *how many* goals are scored (that is the over/under market, which we do not
+    have). So we keep the model's total goal volume ``T = lam_h + lam_a`` fixed
+    and shift only the supremacy ``s = lam_h - lam_a`` until the grid's decisive
+    home-share matches the model/market blend at weight ``w``. The result is a
+    proper Dixon-Coles grid, so exact-score and goal-difference structure stay
+    model-driven while the tendency (the model's weak spot) follows the market.
+
+    With ``w == 0`` or a market equal to the model this returns the model grid.
+    """
+    base = score_grid(lam_h, lam_a, dc_rho, n=n)
+    mh, _md, ma = wdl_from_grid(base)
+    kh, _kd, ka = market_wdl
+    bh = (1.0 - w) * mh + w * float(kh)
+    ba = (1.0 - w) * ma + w * float(ka)
+    denom = bh + ba
+    if denom <= 1e-9 or w <= 0.0:
+        return base
+    target = bh / denom  # blended P(home | decisive)
+
+    total_goals = max(float(lam_h) + float(lam_a), 0.1)
+
+    def decisive_home(s: float) -> float:
+        g = score_grid((total_goals + s) / 2.0, (total_goals - s) / 2.0, dc_rho, n=n)
+        ph, _pd, pa = wdl_from_grid(g)
+        tot = ph + pa
+        return ph / tot if tot > 1e-9 else 0.5
+
+    # decisive_home is monotonically increasing in s → bisection
+    lo, hi = -total_goals + 1e-3, total_goals - 1e-3
+    for _ in range(40):
+        mid = 0.5 * (lo + hi)
+        if decisive_home(mid) < target:
+            lo = mid
+        else:
+            hi = mid
+    s = 0.5 * (lo + hi)
+    return score_grid((total_goals + s) / 2.0, (total_goals - s) / 2.0, dc_rho, n=n)
 
 
 _V6_MODEL_CACHE: dict = {}

@@ -57,7 +57,10 @@ def _argmax_tendency(pred: dict) -> tuple[int, int]:
     return _ARGMAX_SCORE["away"]
 
 
-def evaluate(df: pd.DataFrame, scheme, verbose: bool = False) -> dict:
+def evaluate(df: pd.DataFrame, scheme, verbose: bool = False, predict_fn=None) -> dict:
+    if predict_fn is None:
+        predict_fn = lambda h, a, neutral, tournament: predict_match_v6(
+            h, a, neutral=neutral, tournament=tournament)
     records = []
     n = len(df)
     errors = 0
@@ -66,11 +69,11 @@ def evaluate(df: pd.DataFrame, scheme, verbose: bool = False) -> dict:
         if i % 50 == 0:
             print(f"  {i}/{n} ...", end="\r", flush=True)
         try:
-            pred = predict_match_v6(
+            pred = predict_fn(
                 row["home_team"],
                 row["away_team"],
-                neutral=bool(row.get("neutral", True)),
-                tournament=str(row.get("tournament", "FIFA World Cup")),
+                bool(row.get("neutral", True)),
+                str(row.get("tournament", "FIFA World Cup")),
             )
         except Exception as e:
             errors += 1
@@ -169,8 +172,16 @@ def main() -> None:
     ap.add_argument("--n", type=int, default=0, help="limit to first N matches (0=all)")
     ap.add_argument("--tournaments", type=str, default="", help="comma-separated tournament filter substrings")
     ap.add_argument("--from-date", type=str, default="2024-01-01")
+    ap.add_argument("--model", type=str, default="v7", choices=["v7", "v8"])
+    ap.add_argument("--tag", type=str, default="", help="Checkpoint-Tag für --model v8")
     ap.add_argument("--verbose", action="store_true")
     args = ap.parse_args()
+
+    predict_fn = None
+    if args.model == "v8":
+        from src.predict_v8 import predict_match_v8
+        predict_fn = lambda h, a, neutral, tournament: predict_match_v8(
+            h, a, neutral=neutral, tournament=tournament, tag=args.tag)
 
     df = pd.read_csv(REPO_ROOT / "data" / "raw" / "results.csv")
     df = df[(df["date"] >= args.from_date)
@@ -192,7 +203,7 @@ def main() -> None:
 
     scheme = load_scheme()
     t0 = time.time()
-    result = evaluate(df, scheme, verbose=args.verbose)
+    result = evaluate(df, scheme, verbose=args.verbose, predict_fn=predict_fn)
     elapsed = time.time() - t0
     print(f"  Time: {elapsed:.1f}s ({elapsed/len(result['records']):.2f}s/match)")
 

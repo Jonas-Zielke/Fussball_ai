@@ -1,5 +1,5 @@
 {
-  "n_samples": 49306,
+  "n_samples": 49400,
   "feature_columns": [
     "neutral",
     "tournament_w",
@@ -61,9 +61,9 @@
   ],
   "n_features": 57,
   "class_distribution": {
-    "1": 24163,
-    "2": 13935,
-    "0": 11208
+    "1": 24209,
+    "2": 13958,
+    "0": 11233
   },
   "n_teams": 336
 }
