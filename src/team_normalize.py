@@ -11,6 +11,11 @@ from __future__ import annotations
 
 # Mapping typischer alternativer Schreibweisen -> Martj42-canonical
 TEAM_ALIASES: dict[str, str] = {
+    # the-odds-api / Transfermarkt spellings for WC-2026 minnows (else live odds miss)
+    "cabo verde": "Cape Verde",
+    "curacao": "Curaçao",
+    "congo dr": "DR Congo",
+    "democratic republic of the congo": "DR Congo",
     # USA-Varianten
     "usa": "United States",
     "united states": "United States",

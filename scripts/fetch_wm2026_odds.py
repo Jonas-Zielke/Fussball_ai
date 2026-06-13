@@ -31,6 +31,13 @@ OUT_FILE = REPO_ROOT / "data" / "raw" / "wm2026_odds.json"
 BLEND_WEIGHT = 0.45
 SPORT_KEY = "soccer_fifa_world_cup_2026"
 
+# the-odds-api uses its own team spellings ("USA", "Korea Republic", "Türkiye");
+# the model looks odds up by martj42-canonical names, so live keys MUST be
+# normalized or every live lookup silently misses (the hardcoded fallback only
+# works because it is already written in canonical names).
+sys.path.insert(0, str(REPO_ROOT))
+from src.team_normalize import normalize_team_name  # noqa: E402
+
 # ---------------------------------------------------------------------------
 # Fallback odds (current pre-tournament market, vig-removed)
 # Keyed as "Home|Away" matching wc2026.json canonical team names.
@@ -191,7 +198,8 @@ def fetch_live(api_key: str) -> dict | None:
                     "draw": sum(sums["draw"]) / len(sums["draw"]),
                     "away": sum(sums["away"]) / len(sums["away"]),
                 }
-                key = f"{home_team}|{away_team}"
+                # normalize to martj42-canonical so model lookups hit (knockouts incl.)
+                key = f"{normalize_team_name(home_team)}|{normalize_team_name(away_team)}"
                 matches[key] = _remove_vig(raw)
 
         return matches if matches else None
