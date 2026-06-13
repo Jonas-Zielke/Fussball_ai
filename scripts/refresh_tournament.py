@@ -24,6 +24,7 @@ Usage:
     python -m scripts.refresh_tournament --rebuild-features # full rebuild (slow, for retrain/backtest)
     python -m scripts.refresh_tournament --no-tips          # just refresh data/state/odds
     python -m scripts.refresh_tournament --goalscorers      # also pull goalscorers.csv
+    python -m scripts.refresh_tournament --squads           # also refresh TM squad values (weekly)
 """
 from __future__ import annotations
 
@@ -81,6 +82,9 @@ def main(argv: list[str] | None = None) -> int:
                     help="also rebuild features_v6/v8 + browser tensors (slow)")
     ap.add_argument("--no-tips", action="store_true", help="skip the make_tips step")
     ap.add_argument("--goalscorers", action="store_true", help="also pull goalscorers.csv")
+    ap.add_argument("--squads", action="store_true",
+                    help="refresh squad strength from Transfermarkt market values "
+                         "(slow-changing — run ~weekly, not daily)")
     args = ap.parse_args(argv)
 
     overall_t0 = time.time()
@@ -92,6 +96,13 @@ def main(argv: list[str] | None = None) -> int:
     # 2) Refresh bookmaker odds (uses WM_ODDS_API_KEY env if present, else fallback).
     #    Non-fatal: a stale odds file should not block fresh-state tips.
     run_step("Refresh bookmaker odds", "scripts.fetch_wm2026_odds", [], fatal=False)
+
+    # 2b) Optional: refresh national-team squad strength from Transfermarkt
+    #     (Tier 2A). Inference-only override of squads_2026.json; non-fatal so a
+    #     scrape hiccup falls back to the existing (still-fresh) squad values.
+    if args.squads:
+        run_step("Refresh squad market values (Transfermarkt)",
+                 "src.data_squads", [], fatal=False)
 
     # 3) Rebuild V8/V9 per-team sequence+squad state (consumed by predict_v8).
     run_step("Export V8 final-state (sequence + squad)", "scripts.export_v8_state", [])

@@ -16,12 +16,14 @@
     "coach": ""
   },
   "Algeria": {
-    "sq_ovr": 76.30434782608695,
-    "sq_att": 78.5,
-    "sq_def": 77.0,
+    "sq_ovr": 76.27,
+    "sq_att": 78.46,
+    "sq_def": 76.96,
     "sq_age": 28.391304347826086,
     "sq_depth": 3.469801967216516,
-    "coach": ""
+    "coach": "",
+    "_mv_mio_eur": 256.9,
+    "_sq_ovr_fifa22": 76.3
   },
   "Andorra": {
     "sq_ovr": 64.0,
@@ -56,12 +58,14 @@
     "coach": ""
   },
   "Argentina": {
-    "sq_ovr": 83.30434782608695,
-    "sq_att": 87.33333333333333,
-    "sq_def": 82.33333333333333,
+    "sq_ovr": 83.27,
+    "sq_att": 87.3,
+    "sq_def": 82.3,
     "sq_age": 28.91304347826087,
     "sq_depth": 2.991423841716602,
-    "coach": "Lionel Scaloni"
+    "coach": "Lionel Scaloni",
+    "_mv_mio_eur": 807.5,
+    "_sq_ovr_fifa22": 83.3
   },
   "Armenia": {
     "sq_ovr": 68.71428571428571,
@@ -80,20 +84,24 @@
     "coach": ""
   },
   "Australia": {
-    "sq_ovr": 71.91304347826087,
-    "sq_att": 73.16666666666667,
-    "sq_def": 73.16666666666667,
+    "sq_ovr": 71.96,
+    "sq_att": 73.21,
+    "sq_def": 73.21,
     "sq_age": 28.869565217391305,
     "sq_depth": 2.193234296613542,
-    "coach": "Tony Popovic"
+    "coach": "Tony Popovic",
+    "_mv_mio_eur": 77.5,
+    "_sq_ovr_fifa22": 71.91
   },
   "Austria": {
-    "sq_ovr": 77.65217391304348,
-    "sq_att": 78.16666666666667,
-    "sq_def": 80.0,
+    "sq_ovr": 76.84,
+    "sq_att": 77.35,
+    "sq_def": 79.19,
     "sq_age": 28.17391304347826,
     "sq_depth": 2.963546641382951,
-    "coach": "Ralf Rangnick"
+    "coach": "Ralf Rangnick",
+    "_mv_mio_eur": 245.2,
+    "_sq_ovr_fifa22": 77.65
   },
   "Azerbaijan": {
     "sq_ovr": 62.875,
@@ -128,12 +136,14 @@
     "coach": ""
   },
   "Belgium": {
-    "sq_ovr": 82.04347826086956,
-    "sq_att": 85.66666666666667,
-    "sq_def": 83.16666666666667,
+    "sq_ovr": 81.47,
+    "sq_att": 85.09,
+    "sq_def": 82.59,
     "sq_age": 29.391304347826086,
     "sq_depth": 3.9019605895866945,
-    "coach": "Domenico Tedesco"
+    "coach": "Domenico Tedesco",
+    "_mv_mio_eur": 547.5,
+    "_sq_ovr_fifa22": 82.04
   },
   "Belize": {
     "sq_ovr": 63.0,
@@ -176,20 +186,24 @@
     "coach": "Oscar Villegas"
   },
   "Bosnia and Herzegovina": {
-    "sq_ovr": 74.04347826086956,
-    "sq_att": 76.83333333333333,
-    "sq_def": 74.0,
+    "sq_ovr": 73.74,
+    "sq_att": 76.53,
+    "sq_def": 73.7,
     "sq_age": 28.869565217391305,
     "sq_depth": 3.5608765630436006,
-    "coach": ""
+    "coach": "",
+    "_mv_mio_eur": 146.4,
+    "_sq_ovr_fifa22": 74.04
   },
   "Brazil": {
-    "sq_ovr": 84.43478260869566,
-    "sq_att": 84.5,
-    "sq_def": 86.66666666666667,
+    "sq_ovr": 83.86,
+    "sq_att": 83.92,
+    "sq_def": 86.09,
     "sq_age": 29.391304347826086,
     "sq_depth": 2.7440197282043552,
-    "coach": "Dorival Junior"
+    "coach": "Dorival Junior",
+    "_mv_mio_eur": 928.2,
+    "_sq_ovr_fifa22": 84.43
   },
   "Brunei Darussalam": {
     "sq_ovr": 55.0,
@@ -240,20 +254,24 @@
     "coach": "Marc Brys"
   },
   "Canada": {
-    "sq_ovr": 71.8695652173913,
-    "sq_att": 71.5,
-    "sq_def": 73.33333333333333,
+    "sq_ovr": 73.3,
+    "sq_att": 72.93,
+    "sq_def": 74.77,
     "sq_age": 26.82608695652174,
     "sq_depth": 3.888261446340615,
-    "coach": "Jesse Marsch"
+    "coach": "Jesse Marsch",
+    "_mv_mio_eur": 198.7,
+    "_sq_ovr_fifa22": 71.87
   },
   "Cape Verde": {
-    "sq_ovr": 68.61904761904762,
-    "sq_att": 74.83333333333333,
-    "sq_def": 67.16666666666667,
+    "sq_ovr": 69.8,
+    "sq_att": 76.02,
+    "sq_def": 68.35,
     "sq_age": 27.38095238095238,
     "sq_depth": 5.417344279960343,
-    "coach": ""
+    "coach": "",
+    "_mv_mio_eur": 54.5,
+    "_sq_ovr_fifa22": 68.62
   },
   "Central African Rep.": {
     "sq_ovr": 70.5,
@@ -296,12 +314,14 @@
     "coach": ""
   },
   "Colombia": {
-    "sq_ovr": 78.6086956521739,
-    "sq_att": 80.16666666666667,
-    "sq_def": 79.5,
+    "sq_ovr": 77.73,
+    "sq_att": 79.29,
+    "sq_def": 78.62,
     "sq_age": 29.47826086956522,
     "sq_depth": 2.039142654842574,
-    "coach": "Néstor Lorenzo"
+    "coach": "Néstor Lorenzo",
+    "_mv_mio_eur": 302.4,
+    "_sq_ovr_fifa22": 78.61
   },
   "Comoros": {
     "sq_ovr": 66.125,
@@ -328,12 +348,14 @@
     "coach": "Gustavo Alfaro"
   },
   "Croatia": {
-    "sq_ovr": 79.08695652173913,
-    "sq_att": 80.33333333333333,
-    "sq_def": 79.33333333333333,
+    "sq_ovr": 78.51,
+    "sq_att": 79.76,
+    "sq_def": 78.76,
     "sq_age": 27.91304347826087,
     "sq_depth": 3.3698265868285335,
-    "coach": "Zlatko Dalić"
+    "coach": "Zlatko Dalić",
+    "_mv_mio_eur": 387.3,
+    "_sq_ovr_fifa22": 79.09
   },
   "Cuba": {
     "sq_ovr": 69.0,
@@ -344,12 +366,14 @@
     "coach": ""
   },
   "Curaçao": {
-    "sq_ovr": 67.54545454545455,
-    "sq_att": 66.5,
-    "sq_def": 68.5,
+    "sq_ovr": 68.27,
+    "sq_att": 67.23,
+    "sq_def": 69.23,
     "sq_age": 27.727272727272727,
     "sq_depth": 2.8762349126466136,
-    "coach": ""
+    "coach": "",
+    "_mv_mio_eur": 25.8,
+    "_sq_ovr_fifa22": 67.55
   },
   "Cyprus": {
     "sq_ovr": 61.526315789473685,
@@ -360,20 +384,24 @@
     "coach": ""
   },
   "Czech Republic": {
-    "sq_ovr": 77.04347826086956,
-    "sq_att": 76.5,
-    "sq_def": 79.0,
+    "sq_ovr": 75.78,
+    "sq_att": 75.23,
+    "sq_def": 77.73,
     "sq_age": 27.608695652173914,
     "sq_depth": 2.184204886942224,
-    "coach": ""
+    "coach": "",
+    "_mv_mio_eur": 188.2,
+    "_sq_ovr_fifa22": 77.04
   },
   "DR Congo": {
-    "sq_ovr": 73.04347826086956,
-    "sq_att": 75.5,
-    "sq_def": 74.5,
+    "sq_ovr": 73.23,
+    "sq_att": 75.68,
+    "sq_def": 74.68,
     "sq_age": 28.043478260869566,
     "sq_depth": 3.022314899506446,
-    "coach": "Sébastien Desabre"
+    "coach": "Sébastien Desabre",
+    "_mv_mio_eur": 143.9,
+    "_sq_ovr_fifa22": 73.04
   },
   "Denmark": {
     "sq_ovr": 77.91304347826087,
@@ -392,20 +420,24 @@
     "coach": ""
   },
   "Ecuador": {
-    "sq_ovr": 72.8695652173913,
-    "sq_att": 76.0,
-    "sq_def": 72.5,
+    "sq_ovr": 75.34,
+    "sq_att": 78.47,
+    "sq_def": 74.97,
     "sq_age": 28.391304347826086,
     "sq_depth": 2.768398746668074,
-    "coach": "Sebastián Beccacece"
+    "coach": "Sebastián Beccacece",
+    "_mv_mio_eur": 368.7,
+    "_sq_ovr_fifa22": 72.87
   },
   "Egypt": {
-    "sq_ovr": 72.25,
-    "sq_att": 74.66666666666667,
-    "sq_def": 73.0,
+    "sq_ovr": 72.71,
+    "sq_att": 75.13,
+    "sq_def": 73.46,
     "sq_age": 25.583333333333332,
     "sq_depth": 6.956030738601119,
-    "coach": "Hossam Hassan"
+    "coach": "Hossam Hassan",
+    "_mv_mio_eur": 116.5,
+    "_sq_ovr_fifa22": 72.25
   },
   "El Salvador": {
     "sq_ovr": 65.0,
@@ -416,12 +448,14 @@
     "coach": ""
   },
   "England": {
-    "sq_ovr": 84.17391304347827,
-    "sq_att": 86.66666666666667,
-    "sq_def": 84.5,
+    "sq_ovr": 84.46,
+    "sq_att": 86.95,
+    "sq_def": 84.78,
     "sq_age": 25.82608695652174,
     "sq_depth": 2.187821122674826,
-    "coach": "Thomas Tuchel"
+    "coach": "Thomas Tuchel",
+    "_mv_mio_eur": 1360.0,
+    "_sq_ovr_fifa22": 84.17
   },
   "Equatorial Guinea": {
     "sq_ovr": 69.0,
@@ -488,12 +522,14 @@
     "coach": ""
   },
   "France": {
-    "sq_ovr": 84.65217391304348,
-    "sq_att": 86.5,
-    "sq_def": 84.66666666666667,
+    "sq_ovr": 84.74,
+    "sq_att": 86.59,
+    "sq_def": 84.75,
     "sq_age": 27.0,
     "sq_depth": 2.6043441968472933,
-    "coach": "Didier Deschamps"
+    "coach": "Didier Deschamps",
+    "_mv_mio_eur": 1520.0,
+    "_sq_ovr_fifa22": 84.65
   },
   "Gabon": {
     "sq_ovr": 71.16666666666667,
@@ -520,20 +556,24 @@
     "coach": ""
   },
   "Germany": {
-    "sq_ovr": 84.82608695652173,
-    "sq_att": 84.66666666666667,
-    "sq_def": 87.0,
+    "sq_ovr": 84.29,
+    "sq_att": 84.13,
+    "sq_def": 86.47,
     "sq_age": 28.73913043478261,
     "sq_depth": 2.552221383833084,
-    "coach": "Julian Nagelsmann"
+    "coach": "Julian Nagelsmann",
+    "_mv_mio_eur": 947.0,
+    "_sq_ovr_fifa22": 84.83
   },
   "Ghana": {
-    "sq_ovr": 74.73913043478261,
-    "sq_att": 76.33333333333333,
-    "sq_def": 75.0,
+    "sq_ovr": 75.2,
+    "sq_att": 76.79,
+    "sq_def": 75.46,
     "sq_age": 27.08695652173913,
     "sq_depth": 2.5622680170708816,
-    "coach": ""
+    "coach": "",
+    "_mv_mio_eur": 234.6,
+    "_sq_ovr_fifa22": 74.74
   },
   "Gibraltar": {
     "sq_ovr": 62.0,
@@ -600,12 +640,14 @@
     "coach": ""
   },
   "Haiti": {
-    "sq_ovr": 64.1,
-    "sq_att": 66.5,
-    "sq_def": 64.0,
+    "sq_ovr": 67.62,
+    "sq_att": 70.02,
+    "sq_def": 67.52,
     "sq_age": 25.1,
     "sq_depth": 3.842742076521226,
-    "coach": ""
+    "coach": "",
+    "_mv_mio_eur": 55.9,
+    "_sq_ovr_fifa22": 64.1
   },
   "Honduras": {
     "sq_ovr": 68.0909090909091,
@@ -656,20 +698,24 @@
     "coach": ""
   },
   "Iran": {
-    "sq_ovr": 69.42857142857143,
-    "sq_att": 73.16666666666667,
-    "sq_def": 70.5,
+    "sq_ovr": 69.54,
+    "sq_att": 73.28,
+    "sq_def": 70.61,
     "sq_age": 27.571428571428573,
     "sq_depth": 3.9442544108034987,
-    "coach": "Amir Ghalenoei"
+    "coach": "Amir Ghalenoei",
+    "_mv_mio_eur": 32.0,
+    "_sq_ovr_fifa22": 69.43
   },
   "Iraq": {
-    "sq_ovr": 66.5,
-    "sq_att": 62.5,
-    "sq_def": 51.0,
+    "sq_ovr": 67.61,
+    "sq_att": 63.61,
+    "sq_def": 62.0,
     "sq_age": 29.75,
     "sq_depth": 2.3804761428476167,
-    "coach": "Jesús Casas"
+    "coach": "Jesús Casas",
+    "_mv_mio_eur": 21.2,
+    "_sq_ovr_fifa22": 66.5
   },
   "Israel": {
     "sq_ovr": 68.18181818181819,
@@ -688,12 +734,14 @@
     "coach": "Luciano Spalletti"
   },
   "Ivory Coast": {
-    "sq_ovr": 77.0,
-    "sq_att": 78.66666666666667,
-    "sq_def": 76.66666666666667,
+    "sq_ovr": 78.23,
+    "sq_att": 79.89,
+    "sq_def": 77.89,
     "sq_age": 27.347826086956523,
     "sq_depth": 2.696799449852968,
-    "coach": "Emerse Faé"
+    "coach": "Emerse Faé",
+    "_mv_mio_eur": 522.1,
+    "_sq_ovr_fifa22": 77.0
   },
   "Jamaica": {
     "sq_ovr": 70.91304347826087,
@@ -704,20 +752,24 @@
     "coach": "Steve McClaren"
   },
   "Japan": {
-    "sq_ovr": 74.73913043478261,
-    "sq_att": 76.16666666666667,
-    "sq_def": 74.5,
+    "sq_ovr": 75.63,
+    "sq_att": 77.05,
+    "sq_def": 75.39,
     "sq_age": 28.91304347826087,
     "sq_depth": 1.814522008292287,
-    "coach": "Hajime Moriyasu"
+    "coach": "Hajime Moriyasu",
+    "_mv_mio_eur": 270.9,
+    "_sq_ovr_fifa22": 74.74
   },
   "Jordan": {
-    "sq_ovr": 64.33333333333333,
-    "sq_att": 64.5,
-    "sq_def": 38.666666666666664,
+    "sq_ovr": 66.49,
+    "sq_att": 66.66,
+    "sq_def": 62.0,
     "sq_age": 26.666666666666668,
     "sq_depth": 4.509249752822894,
-    "coach": ""
+    "coach": "",
+    "_mv_mio_eur": 20.3,
+    "_sq_ovr_fifa22": 64.33
   },
   "Kazakhstan": {
     "sq_ovr": 67.66666666666667,
@@ -880,12 +932,14 @@
     "coach": ""
   },
   "Mexico": {
-    "sq_ovr": 78.1304347826087,
-    "sq_att": 80.66666666666667,
-    "sq_def": 78.66666666666667,
+    "sq_ovr": 76.4,
+    "sq_att": 78.94,
+    "sq_def": 76.94,
     "sq_age": 29.52173913043478,
     "sq_depth": 2.321918247446728,
-    "coach": "Javier Aguirre"
+    "coach": "Javier Aguirre",
+    "_mv_mio_eur": 191.8,
+    "_sq_ovr_fifa22": 78.13
   },
   "Moldova": {
     "sq_ovr": 67.25,
@@ -912,12 +966,14 @@
     "coach": ""
   },
   "Morocco": {
-    "sq_ovr": 77.95652173913044,
-    "sq_att": 79.66666666666667,
-    "sq_def": 80.83333333333333,
+    "sq_ovr": 78.02,
+    "sq_att": 79.73,
+    "sq_def": 80.89,
     "sq_age": 28.47826086956522,
     "sq_depth": 3.111244429040123,
-    "coach": "Walid Regragui"
+    "coach": "Walid Regragui",
+    "_mv_mio_eur": 447.7,
+    "_sq_ovr_fifa22": 77.96
   },
   "Mozambique": {
     "sq_ovr": 73.0,
@@ -936,12 +992,14 @@
     "coach": ""
   },
   "Netherlands": {
-    "sq_ovr": 81.82608695652173,
-    "sq_att": 81.66666666666667,
-    "sq_def": 85.0,
+    "sq_ovr": 82.25,
+    "sq_att": 82.09,
+    "sq_def": 85.43,
     "sq_age": 26.304347826086957,
     "sq_depth": 2.822831813381788,
-    "coach": "Ronald Koeman"
+    "coach": "Ronald Koeman",
+    "_mv_mio_eur": 754.2,
+    "_sq_ovr_fifa22": 81.83
   },
   "New Caledonia": {
     "sq_ovr": 71.0,
@@ -952,12 +1010,14 @@
     "coach": ""
   },
   "New Zealand": {
-    "sq_ovr": 67.21739130434783,
-    "sq_att": 70.16666666666667,
-    "sq_def": 69.33333333333333,
+    "sq_ovr": 68.46,
+    "sq_att": 71.4,
+    "sq_def": 70.57,
     "sq_age": 25.304347826086957,
     "sq_depth": 4.033456917280426,
-    "coach": "Darren Bazeley"
+    "coach": "Darren Bazeley",
+    "_mv_mio_eur": 34.4,
+    "_sq_ovr_fifa22": 67.22
   },
   "Nicaragua": {
     "sq_ovr": 56.0,
@@ -1008,17 +1068,19 @@
     "coach": ""
   },
   "Norway": {
-    "sq_ovr": 75.73913043478261,
-    "sq_att": 78.5,
-    "sq_def": 75.16666666666667,
+    "sq_ovr": 78.84,
+    "sq_att": 81.6,
+    "sq_def": 78.27,
     "sq_age": 26.695652173913043,
     "sq_depth": 3.3873748390745395,
-    "coach": ""
+    "coach": "",
+    "_mv_mio_eur": 589.9,
+    "_sq_ovr_fifa22": 75.74
   },
   "Oman": {
     "sq_ovr": 72.0,
-    "sq_att": 60.0,
-    "sq_def": 61.0,
+    "sq_att": 72.0,
+    "sq_def": 72.0,
     "sq_age": 36.0,
     "sq_depth": 0.0,
     "coach": ""
@@ -1032,12 +1094,14 @@
     "coach": ""
   },
   "Panama": {
-    "sq_ovr": 67.05882352941177,
-    "sq_att": 69.16666666666667,
-    "sq_def": 68.16666666666667,
+    "sq_ovr": 68.52,
+    "sq_att": 70.63,
+    "sq_def": 69.63,
     "sq_age": 26.352941176470587,
     "sq_depth": 6.2497058754322,
-    "coach": "Thomas Christiansen"
+    "coach": "Thomas Christiansen",
+    "_mv_mio_eur": 34.5,
+    "_sq_ovr_fifa22": 67.06
   },
   "Papua New Guinea": {
     "sq_ovr": 65.0,
@@ -1048,12 +1112,14 @@
     "coach": ""
   },
   "Paraguay": {
-    "sq_ovr": 74.47826086956522,
-    "sq_att": 75.0,
-    "sq_def": 74.16666666666667,
+    "sq_ovr": 74.18,
+    "sq_att": 74.7,
+    "sq_def": 73.87,
     "sq_age": 28.130434782608695,
     "sq_depth": 1.0387739809021064,
-    "coach": ""
+    "coach": "",
+    "_mv_mio_eur": 153.7,
+    "_sq_ovr_fifa22": 74.48
   },
   "Peru": {
     "sq_ovr": 72.91304347826087,
@@ -1080,12 +1146,14 @@
     "coach": "Michał Probierz"
   },
   "Portugal": {
-    "sq_ovr": 83.21739130434783,
-    "sq_att": 85.66666666666667,
-    "sq_def": 84.16666666666667,
+    "sq_ovr": 83.76,
+    "sq_att": 86.21,
+    "sq_def": 84.71,
     "sq_age": 28.217391304347824,
     "sq_depth": 2.6960665243197006,
-    "coach": "Roberto Martínez"
+    "coach": "Roberto Martínez",
+    "_mv_mio_eur": 1010.0,
+    "_sq_ovr_fifa22": 83.22
   },
   "Puerto Rico": {
     "sq_ovr": 61.0,
@@ -1096,12 +1164,14 @@
     "coach": ""
   },
   "Qatar": {
-    "sq_ovr": 61.0,
-    "sq_att": 23.0,
-    "sq_def": 62.0,
+    "sq_ovr": 64.61,
+    "sq_att": 62.0,
+    "sq_def": 65.61,
     "sq_age": 24.0,
     "sq_depth": 0.0,
-    "coach": "Marquez López"
+    "coach": "Marquez López",
+    "_mv_mio_eur": 19.9,
+    "_sq_ovr_fifa22": 61.0
   },
   "Republic of Ireland": {
     "sq_ovr": 73.26086956521739,
@@ -1153,35 +1223,41 @@
   },
   "San Marino": {
     "sq_ovr": 54.0,
-    "sq_att": NaN,
-    "sq_def": NaN,
+    "sq_att": 54.0,
+    "sq_def": 54.0,
     "sq_age": 22.0,
     "sq_depth": 0.0,
     "coach": ""
   },
   "Saudi Arabia": {
-    "sq_ovr": 69.73913043478261,
-    "sq_att": 68.5,
-    "sq_def": 71.66666666666667,
+    "sq_ovr": 69.99,
+    "sq_att": 68.75,
+    "sq_def": 71.92,
     "sq_age": 27.956521739130434,
     "sq_depth": 2.6149463979270435,
-    "coach": "Hervé Renard"
+    "coach": "Hervé Renard",
+    "_mv_mio_eur": 40.7,
+    "_sq_ovr_fifa22": 69.74
   },
   "Scotland": {
-    "sq_ovr": 76.04347826086956,
-    "sq_att": 75.0,
-    "sq_def": 78.0,
+    "sq_ovr": 75.04,
+    "sq_att": 73.99,
+    "sq_def": 76.99,
     "sq_age": 28.434782608695652,
     "sq_depth": 2.992084418922781,
-    "coach": ""
+    "coach": "",
+    "_mv_mio_eur": 170.2,
+    "_sq_ovr_fifa22": 76.04
   },
   "Senegal": {
-    "sq_ovr": 77.43478260869566,
-    "sq_att": 78.66666666666667,
-    "sq_def": 79.5,
+    "sq_ovr": 78.16,
+    "sq_att": 79.39,
+    "sq_def": 80.22,
     "sq_age": 27.782608695652176,
     "sq_depth": 3.9980232269610636,
-    "coach": "Aliou Cissé"
+    "coach": "Aliou Cissé",
+    "_mv_mio_eur": 478.1,
+    "_sq_ovr_fifa22": 77.43
   },
   "Serbia": {
     "sq_ovr": 77.91304347826087,
@@ -1232,20 +1308,24 @@
     "coach": ""
   },
   "South Africa": {
-    "sq_ovr": 70.1304347826087,
-    "sq_att": 71.83333333333333,
-    "sq_def": 70.33333333333333,
+    "sq_ovr": 70.51,
+    "sq_att": 72.21,
+    "sq_def": 70.71,
     "sq_age": 28.695652173913043,
     "sq_depth": 1.5167053955587406,
-    "coach": "Hugo Broos"
+    "coach": "Hugo Broos",
+    "_mv_mio_eur": 49.2,
+    "_sq_ovr_fifa22": 70.13
   },
   "South Korea": {
-    "sq_ovr": 73.43478260869566,
-    "sq_att": 77.0,
-    "sq_def": 73.16666666666667,
+    "sq_ovr": 73.38,
+    "sq_att": 76.94,
+    "sq_def": 73.11,
     "sq_age": 28.869565217391305,
     "sq_depth": 3.7273691301521326,
-    "coach": "Hong Myung-bo"
+    "coach": "Hong Myung-bo",
+    "_mv_mio_eur": 139.1,
+    "_sq_ovr_fifa22": 73.43
   },
   "South Sudan": {
     "sq_ovr": 52.8,
@@ -1256,12 +1336,14 @@
     "coach": ""
   },
   "Spain": {
-    "sq_ovr": 84.82608695652173,
-    "sq_att": 85.0,
-    "sq_def": 85.5,
+    "sq_ovr": 84.69,
+    "sq_att": 84.86,
+    "sq_def": 85.36,
     "sq_age": 30.17391304347826,
     "sq_depth": 1.3702081432144626,
-    "coach": "Luis de la Fuente"
+    "coach": "Luis de la Fuente",
+    "_mv_mio_eur": 1220.0,
+    "_sq_ovr_fifa22": 84.83
   },
   "Sri Lanka": {
     "sq_ovr": 60.0,
@@ -1320,20 +1402,24 @@
     "coach": ""
   },
   "Sweden": {
-    "sq_ovr": 76.34782608695652,
-    "sq_att": 80.16666666666667,
-    "sq_def": 76.0,
+    "sq_ovr": 77.16,
+    "sq_att": 80.98,
+    "sq_def": 76.82,
     "sq_age": 28.52173913043478,
     "sq_depth": 3.0838095633363776,
-    "coach": ""
+    "coach": "",
+    "_mv_mio_eur": 406.1,
+    "_sq_ovr_fifa22": 76.35
   },
   "Switzerland": {
-    "sq_ovr": 78.0,
-    "sq_att": 76.16666666666667,
-    "sq_def": 80.5,
+    "sq_ovr": 77.52,
+    "sq_att": 75.69,
+    "sq_def": 80.02,
     "sq_age": 27.652173913043477,
     "sq_depth": 2.2962419891481978,
-    "coach": "Murat Yakin"
+    "coach": "Murat Yakin",
+    "_mv_mio_eur": 332.5,
+    "_sq_ovr_fifa22": 78.0
   },
   "Syria": {
     "sq_ovr": 72.0,
@@ -1392,20 +1478,24 @@
     "coach": ""
   },
   "Tunisia": {
-    "sq_ovr": 68.82608695652173,
-    "sq_att": 73.0,
-    "sq_def": 69.66666666666667,
+    "sq_ovr": 70.41,
+    "sq_att": 74.59,
+    "sq_def": 71.25,
     "sq_age": 27.26086956521739,
     "sq_depth": 4.334346694119212,
-    "coach": "Faouzi Benzarti"
+    "coach": "Faouzi Benzarti",
+    "_mv_mio_eur": 70.0,
+    "_sq_ovr_fifa22": 68.83
   },
   "Turkey": {
-    "sq_ovr": 76.6086956521739,
-    "sq_att": 78.16666666666667,
-    "sq_def": 78.16666666666667,
+    "sq_ovr": 77.51,
+    "sq_att": 79.06,
+    "sq_def": 79.06,
     "sq_age": 26.434782608695652,
     "sq_depth": 2.271145694753734,
-    "coach": "Vincenzo Montella"
+    "coach": "Vincenzo Montella",
+    "_mv_mio_eur": 473.7,
+    "_sq_ovr_fifa22": 76.61
   },
   "Turkmenistan": {
     "sq_ovr": 63.0,
@@ -1440,28 +1530,34 @@
     "coach": ""
   },
   "United States": {
-    "sq_ovr": 75.0,
-    "sq_att": 75.5,
-    "sq_def": 76.33333333333333,
+    "sq_ovr": 76.46,
+    "sq_att": 76.96,
+    "sq_def": 77.79,
     "sq_age": 27.08695652173913,
     "sq_depth": 2.215646837627989,
-    "coach": "Mauricio Pochettino"
+    "coach": "Mauricio Pochettino",
+    "_mv_mio_eur": 385.6,
+    "_sq_ovr_fifa22": 75.0
   },
   "Uruguay": {
-    "sq_ovr": 79.73913043478261,
-    "sq_att": 81.83333333333333,
-    "sq_def": 80.5,
+    "sq_ovr": 78.51,
+    "sq_att": 80.61,
+    "sq_def": 79.27,
     "sq_age": 28.652173913043477,
     "sq_depth": 3.003292001429399,
-    "coach": "Marcelo Bielsa"
+    "coach": "Marcelo Bielsa",
+    "_mv_mio_eur": 359.3,
+    "_sq_ovr_fifa22": 79.74
   },
   "Uzbekistan": {
-    "sq_ovr": 68.16666666666667,
-    "sq_att": 66.5,
-    "sq_def": 65.0,
+    "sq_ovr": 70.31,
+    "sq_att": 68.64,
+    "sq_def": 67.14,
     "sq_age": 27.166666666666668,
     "sq_depth": 4.79235502302017,
-    "coach": "Srecko Katanec"
+    "coach": "Srecko Katanec",
+    "_mv_mio_eur": 85.3,
+    "_sq_ovr_fifa22": 68.17
   },
   "Venezuela": {
     "sq_ovr": 73.43478260869566,
@@ -1473,8 +1569,8 @@
   },
   "Vietnam": {
     "sq_ovr": 64.0,
-    "sq_att": 58.0,
-    "sq_def": 19.0,
+    "sq_att": 64.0,
+    "sq_def": 64.0,
     "sq_age": 27.0,
     "sq_depth": 0.0,
     "coach": ""

@@ -41,6 +41,14 @@ dist/
 .DS_Store
 Thumbs.db
 desktop.ini
+export_err.txt
+
+# ── seleniumbase / soccerdata scraper artifacts (FBref reader) ──
+downloaded_files/
+assets/
+latest_logs/
+geckodriver.log
+chromedriver.log
 
 # ── Secrets (never commit API keys) ──
 .env

@@ -8,5 +8,342 @@
       "sq_age": 26.5,
       "coach": "Julian Nagelsmann"
     }
-  }
+  },
+  "Algeria": {
+    "sq_ovr": 76.27,
+    "sq_att": 78.46,
+    "sq_def": 76.96,
+    "_mv_mio_eur": 256.9,
+    "_sq_ovr_fifa22": 76.3
+  },
+  "Argentina": {
+    "sq_ovr": 83.27,
+    "sq_att": 87.3,
+    "sq_def": 82.3,
+    "_mv_mio_eur": 807.5,
+    "_sq_ovr_fifa22": 83.3
+  },
+  "Australia": {
+    "sq_ovr": 71.96,
+    "sq_att": 73.21,
+    "sq_def": 73.21,
+    "_mv_mio_eur": 77.5,
+    "_sq_ovr_fifa22": 71.91
+  },
+  "Austria": {
+    "sq_ovr": 76.84,
+    "sq_att": 77.35,
+    "sq_def": 79.19,
+    "_mv_mio_eur": 245.2,
+    "_sq_ovr_fifa22": 77.65
+  },
+  "Belgium": {
+    "sq_ovr": 81.47,
+    "sq_att": 85.09,
+    "sq_def": 82.59,
+    "_mv_mio_eur": 547.5,
+    "_sq_ovr_fifa22": 82.04
+  },
+  "Bosnia and Herzegovina": {
+    "sq_ovr": 73.74,
+    "sq_att": 76.53,
+    "sq_def": 73.7,
+    "_mv_mio_eur": 146.4,
+    "_sq_ovr_fifa22": 74.04
+  },
+  "Brazil": {
+    "sq_ovr": 83.86,
+    "sq_att": 83.92,
+    "sq_def": 86.09,
+    "_mv_mio_eur": 928.2,
+    "_sq_ovr_fifa22": 84.43
+  },
+  "Canada": {
+    "sq_ovr": 73.3,
+    "sq_att": 72.93,
+    "sq_def": 74.77,
+    "_mv_mio_eur": 198.7,
+    "_sq_ovr_fifa22": 71.87
+  },
+  "Cape Verde": {
+    "sq_ovr": 69.8,
+    "sq_att": 76.02,
+    "sq_def": 68.35,
+    "_mv_mio_eur": 54.5,
+    "_sq_ovr_fifa22": 68.62
+  },
+  "Colombia": {
+    "sq_ovr": 77.73,
+    "sq_att": 79.29,
+    "sq_def": 78.62,
+    "_mv_mio_eur": 302.4,
+    "_sq_ovr_fifa22": 78.61
+  },
+  "Croatia": {
+    "sq_ovr": 78.51,
+    "sq_att": 79.76,
+    "sq_def": 78.76,
+    "_mv_mio_eur": 387.3,
+    "_sq_ovr_fifa22": 79.09
+  },
+  "Curaçao": {
+    "sq_ovr": 68.27,
+    "sq_att": 67.23,
+    "sq_def": 69.23,
+    "_mv_mio_eur": 25.8,
+    "_sq_ovr_fifa22": 67.55
+  },
+  "Czech Republic": {
+    "sq_ovr": 75.78,
+    "sq_att": 75.23,
+    "sq_def": 77.73,
+    "_mv_mio_eur": 188.2,
+    "_sq_ovr_fifa22": 77.04
+  },
+  "DR Congo": {
+    "sq_ovr": 73.23,
+    "sq_att": 75.68,
+    "sq_def": 74.68,
+    "_mv_mio_eur": 143.9,
+    "_sq_ovr_fifa22": 73.04
+  },
+  "Ecuador": {
+    "sq_ovr": 75.34,
+    "sq_att": 78.47,
+    "sq_def": 74.97,
+    "_mv_mio_eur": 368.7,
+    "_sq_ovr_fifa22": 72.87
+  },
+  "Egypt": {
+    "sq_ovr": 72.71,
+    "sq_att": 75.13,
+    "sq_def": 73.46,
+    "_mv_mio_eur": 116.5,
+    "_sq_ovr_fifa22": 72.25
+  },
+  "England": {
+    "sq_ovr": 84.46,
+    "sq_att": 86.95,
+    "sq_def": 84.78,
+    "_mv_mio_eur": 1360.0,
+    "_sq_ovr_fifa22": 84.17
+  },
+  "France": {
+    "sq_ovr": 84.74,
+    "sq_att": 86.59,
+    "sq_def": 84.75,
+    "_mv_mio_eur": 1520.0,
+    "_sq_ovr_fifa22": 84.65
+  },
+  "Germany": {
+    "sq_ovr": 84.29,
+    "sq_att": 84.13,
+    "sq_def": 86.47,
+    "_mv_mio_eur": 947.0,
+    "_sq_ovr_fifa22": 84.83
+  },
+  "Ghana": {
+    "sq_ovr": 75.2,
+    "sq_att": 76.79,
+    "sq_def": 75.46,
+    "_mv_mio_eur": 234.6,
+    "_sq_ovr_fifa22": 74.74
+  },
+  "Haiti": {
+    "sq_ovr": 67.62,
+    "sq_att": 70.02,
+    "sq_def": 67.52,
+    "_mv_mio_eur": 55.9,
+    "_sq_ovr_fifa22": 64.1
+  },
+  "Iran": {
+    "sq_ovr": 69.54,
+    "sq_att": 73.28,
+    "sq_def": 70.61,
+    "_mv_mio_eur": 32.0,
+    "_sq_ovr_fifa22": 69.43
+  },
+  "Iraq": {
+    "sq_ovr": 67.61,
+    "sq_att": 63.61,
+    "sq_def": 62.0,
+    "_mv_mio_eur": 21.2,
+    "_sq_ovr_fifa22": 66.5
+  },
+  "Ivory Coast": {
+    "sq_ovr": 78.23,
+    "sq_att": 79.89,
+    "sq_def": 77.89,
+    "_mv_mio_eur": 522.1,
+    "_sq_ovr_fifa22": 77.0
+  },
+  "Japan": {
+    "sq_ovr": 75.63,
+    "sq_att": 77.05,
+    "sq_def": 75.39,
+    "_mv_mio_eur": 270.9,
+    "_sq_ovr_fifa22": 74.74
+  },
+  "Jordan": {
+    "sq_ovr": 66.49,
+    "sq_att": 66.66,
+    "sq_def": 62.0,
+    "_mv_mio_eur": 20.3,
+    "_sq_ovr_fifa22": 64.33
+  },
+  "Mexico": {
+    "sq_ovr": 76.4,
+    "sq_att": 78.94,
+    "sq_def": 76.94,
+    "_mv_mio_eur": 191.8,
+    "_sq_ovr_fifa22": 78.13
+  },
+  "Morocco": {
+    "sq_ovr": 78.02,
+    "sq_att": 79.73,
+    "sq_def": 80.89,
+    "_mv_mio_eur": 447.7,
+    "_sq_ovr_fifa22": 77.96
+  },
+  "Netherlands": {
+    "sq_ovr": 82.25,
+    "sq_att": 82.09,
+    "sq_def": 85.43,
+    "_mv_mio_eur": 754.2,
+    "_sq_ovr_fifa22": 81.83
+  },
+  "New Zealand": {
+    "sq_ovr": 68.46,
+    "sq_att": 71.4,
+    "sq_def": 70.57,
+    "_mv_mio_eur": 34.4,
+    "_sq_ovr_fifa22": 67.22
+  },
+  "Norway": {
+    "sq_ovr": 78.84,
+    "sq_att": 81.6,
+    "sq_def": 78.27,
+    "_mv_mio_eur": 589.9,
+    "_sq_ovr_fifa22": 75.74
+  },
+  "Panama": {
+    "sq_ovr": 68.52,
+    "sq_att": 70.63,
+    "sq_def": 69.63,
+    "_mv_mio_eur": 34.5,
+    "_sq_ovr_fifa22": 67.06
+  },
+  "Paraguay": {
+    "sq_ovr": 74.18,
+    "sq_att": 74.7,
+    "sq_def": 73.87,
+    "_mv_mio_eur": 153.7,
+    "_sq_ovr_fifa22": 74.48
+  },
+  "Portugal": {
+    "sq_ovr": 83.76,
+    "sq_att": 86.21,
+    "sq_def": 84.71,
+    "_mv_mio_eur": 1010.0,
+    "_sq_ovr_fifa22": 83.22
+  },
+  "Qatar": {
+    "sq_ovr": 64.61,
+    "sq_att": 62.0,
+    "sq_def": 65.61,
+    "_mv_mio_eur": 19.9,
+    "_sq_ovr_fifa22": 61.0
+  },
+  "Saudi Arabia": {
+    "sq_ovr": 69.99,
+    "sq_att": 68.75,
+    "sq_def": 71.92,
+    "_mv_mio_eur": 40.7,
+    "_sq_ovr_fifa22": 69.74
+  },
+  "Scotland": {
+    "sq_ovr": 75.04,
+    "sq_att": 73.99,
+    "sq_def": 76.99,
+    "_mv_mio_eur": 170.2,
+    "_sq_ovr_fifa22": 76.04
+  },
+  "Senegal": {
+    "sq_ovr": 78.16,
+    "sq_att": 79.39,
+    "sq_def": 80.22,
+    "_mv_mio_eur": 478.1,
+    "_sq_ovr_fifa22": 77.43
+  },
+  "South Africa": {
+    "sq_ovr": 70.51,
+    "sq_att": 72.21,
+    "sq_def": 70.71,
+    "_mv_mio_eur": 49.2,
+    "_sq_ovr_fifa22": 70.13
+  },
+  "South Korea": {
+    "sq_ovr": 73.38,
+    "sq_att": 76.94,
+    "sq_def": 73.11,
+    "_mv_mio_eur": 139.1,
+    "_sq_ovr_fifa22": 73.43
+  },
+  "Spain": {
+    "sq_ovr": 84.69,
+    "sq_att": 84.86,
+    "sq_def": 85.36,
+    "_mv_mio_eur": 1220.0,
+    "_sq_ovr_fifa22": 84.83
+  },
+  "Sweden": {
+    "sq_ovr": 77.16,
+    "sq_att": 80.98,
+    "sq_def": 76.82,
+    "_mv_mio_eur": 406.1,
+    "_sq_ovr_fifa22": 76.35
+  },
+  "Switzerland": {
+    "sq_ovr": 77.52,
+    "sq_att": 75.69,
+    "sq_def": 80.02,
+    "_mv_mio_eur": 332.5,
+    "_sq_ovr_fifa22": 78.0
+  },
+  "Tunisia": {
+    "sq_ovr": 70.41,
+    "sq_att": 74.59,
+    "sq_def": 71.25,
+    "_mv_mio_eur": 70.0,
+    "_sq_ovr_fifa22": 68.83
+  },
+  "Turkey": {
+    "sq_ovr": 77.51,
+    "sq_att": 79.06,
+    "sq_def": 79.06,
+    "_mv_mio_eur": 473.7,
+    "_sq_ovr_fifa22": 76.61
+  },
+  "United States": {
+    "sq_ovr": 76.46,
+    "sq_att": 76.96,
+    "sq_def": 77.79,
+    "_mv_mio_eur": 385.6,
+    "_sq_ovr_fifa22": 75.0
+  },
+  "Uruguay": {
+    "sq_ovr": 78.51,
+    "sq_att": 80.61,
+    "sq_def": 79.27,
+    "_mv_mio_eur": 359.3,
+    "_sq_ovr_fifa22": 79.74
+  },
+  "Uzbekistan": {
+    "sq_ovr": 70.31,
+    "sq_att": 68.64,
+    "sq_def": 67.14,
+    "_mv_mio_eur": 85.3,
+    "_sq_ovr_fifa22": 68.17
+  },
+  "_tier2a_comment": "sq_ovr/att/def 2026-06 aus Transfermarkt-Marktwerten kalibriert (rang-/quantil-erhaltend auf FIFA-Skala, blend=0.5). Inference-only, kein Retrain. src/data_squads.py"
 }
